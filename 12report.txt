@@ -1,0 +1,8 @@
+Sat Jan 20 02:10:14 PM PST 2024
+user: averya
+home: /home/averya
+shell: /bin/bash
+pwd: /home/averya/mcb185_homework
+path: /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+Linux avery-virtualbox 6.5.0-14-generic #14~22.04.1-Ubuntu SMP PREEMPT_DYNAMIC Mon Nov 20 18:15:30 UTC 2 x86_64 x86_64 x86_64 GNU/Linux
+Python 3.10.12
