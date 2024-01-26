@@ -100,3 +100,23 @@ Meant for searching specific things in a document. Kind of like a Control+F
 + `math.pi`: 3.14159...
 + `math.inf`: infinity
 + `math.nan`: not a number (e.g. 0/0)
+
+# writing a function
+```
+def functionname(a, b):   #how you format the input of the variables
+    return math.sqrt(a**2 + b**2) 
+```
+# operating a function & conditionals
+`print(functionname(3, 4)) #make sure it is the same format of earlier`
+
+# numerical comparison operators
+
+| Operator | Purpose           | Example
+|:---------|:------------------|:----------------------
+| `==`     | equality          | `if a == b:`
+| `!=`     | inequality        | `if a != b:`
+| `<`      | less than         | `if a < b:`
+| `>`      | greater than      | `if a > b:`
+| `<=`     | less or equal     | `if a <= b:`
+| `>=`     | greater or equal  | `if a >= b:`
+

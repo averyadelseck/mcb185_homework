@@ -101,6 +101,69 @@ def midpoint(x1, y1, x2, y2):
 	mx=(x1+x2)/2
 	my=(y1+y2)/2
 	return mx, my
-print(midpoint(3, 4, 5, 6))
+print(midpoint(3, 4, 5, 6)) 
 
+#strings
 
+s = 'hello world'
+print(s, type(s))
+
+#conditionals
+
+a = 0.3
+b = 0.1 * 3
+
+if a == b:
+	print('a equals b')
+if a != b:
+	print('a does not equal b')
+print(a, b)
+
+#boolean
+c = a == b
+print(c)
+print(type(c))
+print(a, b)
+
+#if-elifl-else
+
+if a < b:
+	print('a < b')
+elif a > b:
+	print('a > b')
+else:
+	print('a == b')
+
+#reformat
+
+if a < b:	print('a < b 1')
+elif a > b: print('a > b 1')
+else:		print('a == b 1')
+
+#note: equalities are rare, unless you mround the number
+
+print(abs(a-b)) 
+if abs(a-b) < 1e-9: print('close enough')
+if math.isclose(a, b): print('close enough')
+
+#string comparison
+
+s1 = 'A'
+s2 = 'B'
+s3 = 'a'
+if s1 < s2: print('A < B')
+if s2 < s3: print('B < a')
+
+#more practice
+
+s5=G
+if s5==G:
+	print('c')
+elif s5==C:
+	print('g')
+elif s5==A:
+	print('t')
+elif s5==T:
+	print('a')
+else:
+	sys.ext('unknown nucleotide')
