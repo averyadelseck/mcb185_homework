@@ -1,4 +1,8 @@
 #Kyte-Doolittle Hydrophobicity
+'''
+user guide:
+enter 1 letter code for amino acid and get the hydrophobicity constant
+'''
 def hydrophobicity(s):
 	if s == 'A': 	print('1.80')
 	elif s == 'C':	print('2.50')

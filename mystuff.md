@@ -6,10 +6,8 @@ Avery's Notes
 
 ## Unit 0 - General Operations
 
-# style checker
-just paste into your terminal:
-python3 ~/Code/MCB185/stylint.py <yourfile.py>
-
+# style checker 
++ python3 ~/Code/MCB185/stylint.py <yourfile.py>
 # basic commands
 + `cd /` : means to go to a different place
 + `touch` : means to create a document
