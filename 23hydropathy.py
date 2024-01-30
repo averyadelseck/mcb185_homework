@@ -1,9 +1,7 @@
 #Kyte-Doolittle Hydrophobicity
-'''
-doc-strings:
-enter 1 letter code for amino acid and get the hydrophobicity constant
-'''
+
 def hydrophobicity(s):
+"""enter 1 letter code for amino acid to get the hydrophobicity constant"""
 	if s == 'A': 	print('1.80')
 	elif s == 'C':	print('2.50')
 	elif s == 'D':	print('-3.50')
