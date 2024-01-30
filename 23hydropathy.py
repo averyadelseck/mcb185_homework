@@ -1,6 +1,6 @@
 #Kyte-Doolittle Hydrophobicity
 '''
-user guide:
+doc-strings:
 enter 1 letter code for amino acid and get the hydrophobicity constant
 '''
 def hydrophobicity(s):

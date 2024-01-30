@@ -122,3 +122,5 @@ def functionname(a, b):   #how you format the input of the variables
 | `<=`     | less or equal     | `if a <= b:`
 | `>=`     | greater or equal  | `if a >= b:`
 
+# doc-strings
+`they are a way to tell users how to use your code and its function (i think)`
