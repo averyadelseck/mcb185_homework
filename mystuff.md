@@ -108,8 +108,11 @@ Meant for searching specific things in a document. Kind of like a Control+F
 def functionname(a, b):   #how you format the input of the variables
     return math.sqrt(a**2 + b**2) 
 ```
+
+
 # operating a function & conditionals
-`print(functionname(3, 4)) #make sure it is the same format of earlier`
+`print(functionname(3, 4)) #make s
+ure it is the same format of earlier`
 
 # numerical comparison operators
 
@@ -123,4 +126,29 @@ def functionname(a, b):   #how you format the input of the variables
 | `>=`     | greater or equal  | `if a >= b:`
 
 # doc-strings
-`they are a way to tell users how to use your code and its function (i think)`
++ they are a way to tell users how to use your code and its function`
++ for example:
+def X:
+"""doc-strings"""
+
+
+### Unit 3 - Algorithms
+
+range:
+
+for i in range(initial value, end-before limit, increment):
+	print(i)
+
+for loops:
+
+for char in 'hello':
+	print(char)
+	
+nested loops:
+
+for nt1 in 'ACGT':
+	for nt2 in 'ACGT':
+		if nt1 == nt2: print(nt1, nt2, '+1')
+		else:          print(nt1, nt2, '-1')
+
+
