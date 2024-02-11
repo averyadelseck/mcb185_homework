@@ -14,7 +14,7 @@ for i in range(6):
 	elif x > 10: succ += 1
 	else:      fail += 1
 	print(x, succ, fail, rev)
-	if rev == 1: print('Are you Jesus, because you just came back from the dead')
+	if rev == 1: print('You are alive!')
 	if rev == 1: break
 	if fail == 3: print('GAMEOVER, try your luck another day')
 	if fail == 3: break
