@@ -10,4 +10,4 @@ for i in range(0, 10):
 	print(f'>seq-{i + 1}')
 	print()
 	for nts in range(50):
-		print(random.choice('ACGT'), end='')
+		print(random.choice(nts), end='')

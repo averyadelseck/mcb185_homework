@@ -28,7 +28,7 @@ print('3D6r1 =', stat / games)
 ### roll pairs of six-sided 3 times, taking the maximum each time ###
 games = 100000
 stat = 0
-for i in range(games):
+for i in range(games):z
 	x1 = random.randint(1, 6)
 	x2 = random.randint(1, 6)
 	if x1 > x2: x = x1
@@ -57,9 +57,9 @@ for i in range(games):
 	z = random.randint(1, 6)
 	w = random.randint(1, 6)
 	min = x
-	if x > y: y = min
-	if min > z: z = min
-	if min > w: w = min
+	if x < y: y = min
+	if min < z: z = min
+	if min < w: w = min
 	stat = stat + x + y + z + w - min
 	#troubleshoot: print('x=', x,'y=', y,'z=', z,'w=', w,'min=' , min,'stat=', stat)
 print('3D6dl =', stat / games)

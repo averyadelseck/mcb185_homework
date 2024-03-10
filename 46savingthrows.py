@@ -1,5 +1,5 @@
 ### Saving Throw ###
-### sorry, I do not know how to rename documents
+
 import math
 import random 
 import sys

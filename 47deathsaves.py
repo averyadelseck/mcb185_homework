@@ -3,7 +3,6 @@ import random
 import math
 import sys
 
-
 succ = 0
 fail = 0
 rev = 0
@@ -20,7 +19,6 @@ for i in range(6):
 	if fail == 3: break
 	if succ == 3: print('Hanging on for dear life') 
 	if succ == 3: break
-
 
 games = 100000
 # inputs
