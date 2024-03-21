@@ -9,6 +9,10 @@ import dogma
 import sys
 import mcb185
 
+for defline, seq in mcb185.read_fasta(sys.argv[1]):
+	defwords = defline.split()
+	seq = seq[:40]
+	
 seq = 'TACTAAATGTACACGTAGCTAAUGGACTGACGCATCGACTACGGACTGCACTACGACTCTGCTAGCTGATCGATCGGGCTGGCGGGATAGGGCTAAATTTTCGGGGAAAACGTGATCGACTGCATCGATCGATCGACG'
 
 #tac = atg = aug = m

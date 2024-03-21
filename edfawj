@@ -1,0 +1,1726 @@
+LOCUS       NC_000913            4641652 bp    DNA     circular CON 09-MAR-2022
+DEFINITION  Escherichia coli str. K-12 substr. MG1655, complete genome.
+ACCESSION   NC_000913
+VERSION     NC_000913.3
+DBLINK      BioProject: PRJNA57779
+            BioSample: SAMN02604091
+KEYWORDS    RefSeq.
+SOURCE      Escherichia coli str. K-12 substr. MG1655
+  ORGANISM  Escherichia coli str. K-12 substr. MG1655
+            Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacterales;
+            Enterobacteriaceae; Escherichia.
+REFERENCE   1  (bases 1 to 4641652)
+  AUTHORS   Riley,M., Abe,T., Arnaud,M.B., Berlyn,M.K., Blattner,F.R.,
+            Chaudhuri,R.R., Glasner,J.D., Horiuchi,T., Keseler,I.M., Kosuge,T.,
+            Mori,H., Perna,N.T., Plunkett,G. III, Rudd,K.E., Serres,M.H.,
+            Thomas,G.H., Thomson,N.R., Wishart,D. and Wanner,B.L.
+  TITLE     Escherichia coli K-12: a cooperatively developed annotation
+            snapshot--2005
+  JOURNAL   Nucleic Acids Res. 34 (1), 1-9 (2006)
+   PUBMED   16397293
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 4641652)
+  AUTHORS   Hayashi,K., Morooka,N., Yamamoto,Y., Fujita,K., Isono,K., Choi,S.,
+            Ohtsubo,E., Baba,T., Wanner,B.L., Mori,H. and Horiuchi,T.
+  TITLE     Highly accurate genome sequences of Escherichia coli K-12 strains
+            MG1655 and W3110
+  JOURNAL   Mol. Syst. Biol. 2, 2006 (2006)
+   PUBMED   16738553
+REFERENCE   3  (bases 1 to 4641652)
+  AUTHORS   Blattner,F.R., Plunkett,G. III, Bloch,C.A., Perna,N.T., Burland,V.,
+            Riley,M., Collado-Vides,J., Glasner,J.D., Rode,C.K., Mayhew,G.F.,
+            Gregor,J., Davis,N.W., Kirkpatrick,H.A., Goeden,M.A., Rose,D.J.,
+            Mau,B. and Shao,Y.
+  TITLE     The complete genome sequence of Escherichia coli K-12
+  JOURNAL   Science 277 (5331), 1453-1462 (1997)
+   PUBMED   9278503
+REFERENCE   4  (bases 1 to 4641652)
+  AUTHORS   Arnaud,M., Berlyn,M.K.B., Blattner,F.R., Galperin,M.Y.,
+            Glasner,J.D., Horiuchi,T., Kosuge,T., Mori,H., Perna,N.T.,
+            Plunkett,G. III, Riley,M., Rudd,K.E., Serres,M.H., Thomas,G.H. and
+            Wanner,B.L.
+  TITLE     Workshop on Annotation of Escherichia coli K-12
+  JOURNAL   Unpublished
+  REMARK    Woods Hole, Mass., on 14-18 November 2003 (sequence corrections)
+REFERENCE   5  (bases 1 to 4641652)
+  AUTHORS   Glasner,J.D., Perna,N.T., Plunkett,G. III, Anderson,B.D.,
+            Bockhorst,J., Hu,J.C., Riley,M., Rudd,K.E. and Serres,M.H.
+  TITLE     ASAP: Escherichia coli K-12 strain MG1655 version m56
+  JOURNAL   Unpublished
+  REMARK    ASAP download 10 June 2004 (annotation updates)
+REFERENCE   6  (bases 1 to 4641652)
+  AUTHORS   Hayashi,K., Morooka,N., Mori,H. and Horiuchi,T.
+  TITLE     A more accurate sequence comparison between genomes of Escherichia
+            coli K12 W3110 and MG1655 strains
+  JOURNAL   Unpublished
+  REMARK    GenBank accessions AG613214 to AG613378 (sequence corrections)
+REFERENCE   7  (bases 1 to 4641652)
+  AUTHORS   Perna,N.T.
+  TITLE     Escherichia coli K-12 MG1655 yqiK-rfaE intergenic region, genomic
+            sequence correction
+  JOURNAL   Unpublished
+  REMARK    GenBank accession AY605712 (sequence corrections)
+REFERENCE   8  (bases 1 to 4641652)
+  AUTHORS   Rudd,K.E.
+  TITLE     A manual approach to accurate translation start site annotation: an
+            E. coli K-12 case study
+  JOURNAL   Unpublished
+REFERENCE   9  (bases 1 to 4641652)
+  CONSRTM   NCBI Genome Project
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-MAR-2022) National Center for Biotechnology
+            Information, NIH, Bethesda, MD 20894, USA
+REFERENCE   10 (bases 1 to 4641652)
+  AUTHORS   Blattner,F.R. and Plunkett,G. III.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (30-JUL-2014) Laboratory of Genetics, University of
+            Wisconsin, 425G Henry Mall, Madison, WI 53706-1580, USA
+  REMARK    Protein update by submitter
+REFERENCE   11 (bases 1 to 4641652)
+  AUTHORS   Blattner,F.R. and Plunkett,G. III.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (15-NOV-2013) Laboratory of Genetics, University of
+            Wisconsin, 425G Henry Mall, Madison, WI 53706-1580, USA
+  REMARK    Protein update by submitter
+REFERENCE   12 (bases 1 to 4641652)
+  AUTHORS   Blattner,F.R. and Plunkett,G. III.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (26-SEP-2013) Laboratory of Genetics, University of
+            Wisconsin, 425G Henry Mall, Madison, WI 53706-1580, USA
+  REMARK    Sequence update by submitter
+REFERENCE   13 (bases 1 to 4641652)
+  AUTHORS   Rudd,K.E.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-FEB-2013) Department of Biochemistry and Molecular
+            Biology, University of Miami Miller School of Medicine, 118 Gautier
+            Bldg., Miami, FL 33136, USA
+  REMARK    Sequence update by submitter
+REFERENCE   14 (bases 1 to 4641652)
+  AUTHORS   Rudd,K.E.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (24-APR-2007) Department of Biochemistry and Molecular
+            Biology, University of Miami Miller School of Medicine, 118 Gautier
+            Bldg., Miami, FL 33136, USA
+  REMARK    Annotation update from ecogene.org as a multi-database
+            collaboration
+REFERENCE   15 (bases 1 to 4641652)
+  AUTHORS   Plunkett,G. III.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-FEB-2006) Laboratory of Genetics, University of
+            Wisconsin, 425G Henry Mall, Madison, WI 53706-1580, USA
+  REMARK    Protein updates by submitter
+REFERENCE   16 (bases 1 to 4641652)
+  AUTHORS   Plunkett,G. III.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-JUN-2004) Laboratory of Genetics, University of
+            Wisconsin, 425G Henry Mall, Madison, WI 53706-1580, USA
+  REMARK    Sequence update by submitter
+REFERENCE   17 (bases 1 to 4641652)
+  AUTHORS   Plunkett,G. III.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (13-OCT-1998) Laboratory of Genetics, University of
+            Wisconsin, 425G Henry Mall, Madison, WI 53706-1580, USA
+REFERENCE   18 (bases 1 to 4641652)
+  AUTHORS   Blattner,F.R. and Plunkett,G. III.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (02-SEP-1997) Laboratory of Genetics, University of
+            Wisconsin, 425G Henry Mall, Madison, WI 53706-1580, USA
+REFERENCE   19 (bases 1 to 4641652)
+  AUTHORS   Blattner,F.R. and Plunkett,G. III.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-JAN-1997) Laboratory of Genetics, University of
+            Wisconsin, 425G Henry Mall, Madison, WI 53706-1580, USA
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to final
+            NCBI review. The reference sequence is identical to U00096.
+            On Nov 3, 2013 this sequence version replaced NC_000913.2.
+            Changes to proteins and annotation made on March 7, 2022.  Current
+            U00096 annotation updates are derived from EcoCyc
+            https://ecocyc.org/.  Suggestions for updates can be sent to
+            biocyc-support@ai.sri.com. These updates are being generated from a
+            collaboration  that includes EcoCyc, the University of Wisconsin,
+            UniProtKB/Swiss-Prot, and the National Center for Biotechnology
+            Information (NCBI).
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..4641652
+                     /organism="Escherichia coli str. K-12 substr. MG1655"
+                     /mol_type="genomic DNA"
+                     /strain="K-12"
+                     /sub_strain="MG1655"
+                     /db_xref="taxon:511145"
+     gene            190..255
+                     /gene="thrL"
+                     /locus_tag="b0001"
+                     /gene_synonym="ECK0001"
+                     /db_xref="ASAP:ABE-0000006"
+                     /db_xref="ECOCYC:EG11277"
+                     /db_xref="GeneID:944742"
+     CDS             190..255
+                     /gene="thrL"
+                     /locus_tag="b0001"
+                     /gene_synonym="ECK0001"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="thr operon leader peptide"
+                     /protein_id="NP_414542.1"
+                     /db_xref="UniProtKB/Swiss-Prot:P0AD86"
+                     /db_xref="ASAP:ABE-0000006"
+                     /db_xref="ECOCYC:EG11277"
+                     /db_xref="GeneID:944742"
+                     /translation="MKRISTTITTTITITTGNGAG"
+     gene            337..2799
+                     /gene="thrA"
+                     /locus_tag="b0002"
+                     /gene_synonym="ECK0002; Hs; thrA1; thrA2; thrD"
+                     /db_xref="ASAP:ABE-0000008"
+                     /db_xref="ECOCYC:EG10998"
+                     /db_xref="GeneID:945803"
+     CDS             337..2799
+                     /gene="thrA"
+                     /locus_tag="b0002"
+                     /gene_synonym="ECK0002; Hs; thrA1; thrA2; thrD"
+                     /EC_number="1.1.1.3"
+                     /EC_number="2.7.2.4"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="fused aspartate kinase/homoserine dehydrogenase
+                     1"
+                     /protein_id="NP_414543.1"
+                     /db_xref="UniProtKB/Swiss-Prot:P00561"
+                     /db_xref="ASAP:ABE-0000008"
+                     /db_xref="ECOCYC:EG10998"
+                     /db_xref="GeneID:945803"
+                     /translation="MRVLKFGGTSVANAERFLRVADILESNARQGQVATVLSAPAKIT
+                     NHLVAMIEKTISGQDALPNISDAERIFAELLTGLAAAQPGFPLAQLKTFVDQEFAQIK
+                     HVLHGISLLGQCPDSINAALICRGEKMSIAIMAGVLEARGHNVTVIDPVEKLLAVGHY
+                     LESTVDIAESTRRIAASRIPADHMVLMAGFTAGNEKGELVVLGRNGSDYSAAVLAACL
+                     RADCCEIWTDVDGVYTCDPRQVPDARLLKSMSYQEAMELSYFGAKVLHPRTITPIAQF
+                     QIPCLIKNTGNPQAPGTLIGASRDEDELPVKGISNLNNMAMFSVSGPGMKGMVGMAAR
+                     VFAAMSRARISVVLITQSSSEYSISFCVPQSDCVRAERAMQEEFYLELKEGLLEPLAV
+                     TERLAIISVVGDGMRTLRGISAKFFAALARANINIVAIAQGSSERSISVVVNNDDATT
+                     GVRVTHQMLFNTDQVIEVFVIGVGGVGGALLEQLKRQQSWLKNKHIDLRVCGVANSKA
+                     LLTNVHGLNLENWQEELAQAKEPFNLGRLIRLVKEYHLLNPVIVDCTSSQAVADQYAD
+                     FLREGFHVVTPNKKANTSSMDYYHQLRYAAEKSRRKFLYDTNVGAGLPVIENLQNLLN
+                     AGDELMKFSGILSGSLSYIFGKLDEGMSFSEATTLAREMGYTEPDPRDDLSGMDVARK
+                     LLILARETGRELELADIEIEPVLPAEFNAEGDVAAFMANLSQLDDLFAARVAKARDEG
+                     KVLRYVGNIDEDGVCRVKIAEVDGNDPLFKVKNGENALAFYSHYYQPLPLVLRGYGAG
+                     NDVTAAGVFADLLRTLSWKLGV"
+     gene            2801..3733
+                     /gene="thrB"
+                     /locus_tag="b0003"
+                     /gene_synonym="ECK0003"
+                     /db_xref="ASAP:ABE-0000010"
+                     /db_xref="ECOCYC:EG10999"
+                     /db_xref="GeneID:947498"
+     CDS             2801..3733
+                     /gene="thrB"
+                     /locus_tag="b0003"
+                     /gene_synonym="ECK0003"
+                     /EC_number="2.7.1.39"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="homoserine kinase"
+                     /protein_id="NP_414544.1"
+                     /db_xref="UniProtKB/Swiss-Prot:P00547"
+                     /db_xref="ASAP:ABE-0000010"
+                     /db_xref="ECOCYC:EG10999"
+                     /db_xref="GeneID:947498"
+                     /translation="MVKVYAPASSANMSVGFDVLGAAVTPVDGALLGDVVTVEAAETF
+                     SLNNLGRFADKLPSEPRENIVYQCWERFCQELGKQIPVAMTLEKNMPIGSGLGSSACS
+                     VVAALMAMNEHCGKPLNDTRLLALMGELEGRISGSIHYDNVAPCFLGGMQLMIEENDI
+                     ISQQVPGFDEWLWVLAYPGIKVSTAEARAILPAQYRRQDCIAHGRHLAGFIHACYSRQ
+                     PELAAKLMKDVIAEPYRERLLPGFRQARQAVAEIGAVASGISGSGPTLFALCDKPETA
+                     QRVADWLGKNYLQNQEGFVHICRLDTAGARVLEN"
+     gene            3734..5020
+                     /gene="thrC"
+                     /locus_tag="b0004"
+                     /gene_synonym="ECK0004"
+                     /db_xref="ASAP:ABE-0000012"
+                     /db_xref="ECOCYC:EG11000"
+                     /db_xref="GeneID:945198"
+     CDS             3734..5020
+                     /gene="thrC"
+                     /locus_tag="b0004"
+                     /gene_synonym="ECK0004"
+                     /EC_number="4.2.3.1"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="threonine synthase"
+                     /protein_id="NP_414545.1"
+                     /db_xref="UniProtKB/Swiss-Prot:P00934"
+                     /db_xref="ASAP:ABE-0000012"
+                     /db_xref="ECOCYC:EG11000"
+                     /db_xref="GeneID:945198"
+                     /translation="MKLYNLKDHNEQVSFAQAVTQGLGKNQGLFFPHDLPEFSLTEID
+                     EMLKLDFVTRSAKILSAFIGDEIPQEILEERVRAAFAFPAPVANVESDVGCLELFHGP
+                     TLAFKDFGGRFMAQMLTHIAGDKPVTILTATSGDTGAAVAHAFYGLPNVKVVILYPRG
+                     KISPLQEKLFCTLGGNIETVAIDGDFDACQALVKQAFDDEELKVALGLNSANSINISR
+                     LLAQICYYFEAVAQLPQETRNQLVVSVPSGNFGDLTAGLLAKSLGLPVKRFIAATNVN
+                     DTVPRFLHDGQWSPKATQATLSNAMDVSQPNNWPRVEELFRRKIWQLKELGYAAVDDE
+                     TTQQTMRELKELGYTSEPHAAVAYRALRDQLNPGEYGLFLGTAHPAKFKESVEAILGE
+                     TLDLPKELAERADLPLLSHNLPADFAALRKLMMNHQ"
+     gene            5234..5530
+                     /gene="yaaX"
+                     /locus_tag="b0005"
+                     /gene_synonym="ECK0005"
+                     /db_xref="ASAP:ABE-0000015"
+                     /db_xref="ECOCYC:G6081"
+                     /db_xref="GeneID:944747"
+     CDS             5234..5530
+                     /gene="yaaX"
+                     /locus_tag="b0005"
+                     /gene_synonym="ECK0005"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="DUF2502 domain-containing protein YaaX"
+                     /protein_id="NP_414546.1"
+                     /db_xref="UniProtKB/Swiss-Prot:P75616"
+                     /db_xref="ASAP:ABE-0000015"
+                     /db_xref="ECOCYC:G6081"
+                     /db_xref="GeneID:944747"
+                     /translation="MKKMQSIVLALSLVLVAPMAAQAAEITLVPSVKLQIGDRDNRGY
+                     YWDGGHWRDHGWWKQHYEWRGNRWHLHGPPPPPRHHKKAPHDHHGGHGPGKHHR"
+     gene            complement(5683..6459)
+                     /gene="yaaA"
+                     /locus_tag="b0006"
+                     /gene_synonym="ECK0006"
+                     /db_xref="ASAP:ABE-0000018"
+                     /db_xref="ECOCYC:EG10011"
+                     /db_xref="GeneID:944749"
+     CDS             complement(5683..6459)
+                     /gene="yaaA"
+                     /locus_tag="b0006"
+                     /gene_synonym="ECK0006"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="DNA binding and peroxide stress response protein
+                     YaaA"
+                     /protein_id="NP_414547.1"
+                     /db_xref="UniProtKB/Swiss-Prot:P0A8I3"
+                     /db_xref="ASAP:ABE-0000018"
+                     /db_xref="ECOCYC:EG10011"
+                     /db_xref="GeneID:944749"
+                     /translation="MLILISPAKTLDYQSPLTTTRYTLPELLDNSQQLIHEARKLTPP
+                     QISTLMRISDKLAGINAARFHDWQPDFTPANARQAILAFKGDVYTGLQAETFSEDDFD
+                     FAQQHLRMLSGLYGVLRPLDLMQPYRLEMGIRLENARGKDLYQFWGDIITNKLNEALA
+                     AQGDNVVINLASDEYFKSVKPKKLNAEIIKPVFLDEKNGKFKIISFYAKKARGLMSRF
+                     IIENRLTKPEQLTGFNSEGYFFDEDSSSNGELVFKRYEQR"
+     gene            complement(6529..7959)
+                     /gene="yaaJ"
+                     /locus_tag="b0007"
+                     /gene_synonym="ECK0007"
+                     /db_xref="ASAP:ABE-0000020"
+                     /db_xref="ECOCYC:EG11555"
+                     /db_xref="GeneID:944745"
+     CDS             complement(6529..7959)
+                     /gene="yaaJ"
+                     /locus_tag="b0007"
+                     /gene_synonym="ECK0007"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="putative transporter YaaJ"
+                     /protein_id="NP_414548.1"
+                     /db_xref="UniProtKB/Swiss-Prot:P30143"
+                     /db_xref="ASAP:ABE-0000020"
+                     /db_xref="ECOCYC:EG11555"
+                     /db_xref="GeneID:944745"
+                     /translation="MPDFFSFINSVLWGSVMIYLLFGAGCWFTFRTGFVQFRYIRQFG
+                     KSLKNSIHPQPGGLTSFQSLCTSLAARVGSGNLAGVALAITAGGPGAVFWMWVAAFIG
+                     MATSFAECSLAQLYKERDVNGQFRGGPAWYMARGLGMRWMGVLFAVFLLIAYGIIFSG
+                     VQANAVARALSFSFDFPPLVTGIILAVFTLLAITRGLHGVARLMQGFVPLMAIIWVLT
+                     SLVICVMNIGQLPHVIWSIFESAFGWQEAAGGAAGYTLSQAITNGFQRSMFSNEAGMG
+                     STPNAAAAAASWPPHPAAQGIVQMIGIFIDTLVICTASAMLILLAGNGTTYMPLEGIQ
+                     LIQKAMRVLMGSWGAEFVTLVVILFAFSSIVANYIYAENNLFFLRLNNPKAIWCLRIC
+                     TFATVIGGTLLSLPLMWQLADIIMACMAITNLTAILLLSPVVHTIASDYLRQRKLGVR
+                     PVFDPLRYPDIGRQLSPDAWDDVSQE"
+     gene            8238..9191
+                     /gene="talB"
+                     /locus_tag="b0008"
+                     /gene_synonym="ECK0008; yaaK"
+                     /db_xref="ASAP:ABE-0000027"
+                     /db_xref="ECOCYC:EG11556"
+                     /db_xref="GeneID:944748"
+     CDS             8238..9191
+                     /gene="talB"
+                     /locus_tag="b0008"
+                     /gene_synonym="ECK0008; yaaK"
+                     /EC_number="2.2.1.2"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="transaldolase B"
+                     /protein_id="NP_414549.1"
+                     /db_xref="UniProtKB/Swiss-Prot:P0A870"
+                     /db_xref="ASAP:ABE-0000027"
+                     /db_xref="ECOCYC:EG11556"
+                     /db_xref="GeneID:944748"
+                     /translation="MTDKLTSLRQYTTVVADTGDIAAMKLYQPQDATTNPSLILNAAQ
+                     IPEYRKLIDDAVAWAKQQSNDRAQQIVDATDKLAVNIGLEILKLVPGRISTEVDARLS
+                     YDTEASIAKAKRLIKLYNDAGISNDRILIKLASTWQGIRAAEQLEKEGINCNLTLLFS
+                     FAQARACAEAGVFLISPFVGRILDWYKANTDKKEYAPAEDPGVVSVSEIYQYYKEHGY
+                     ETVVMGASFRNIGEILELAGCDRLTIAPALLKELAESEGAIERKLSYTGEVKARPARI
+                     TESEFLWQHNQDPMAVDKLAEGIRKFAIDQEKLEKMIGDLL"
+     gene            9306..9893
+                     /gene="mog"
+                     /locus_tag="b0009"
+                     /gene_synonym="bisD; chlG; ECK0009; mogA; yaaG"
+                     /db_xref="ASAP:ABE-0000030"
+                     /db_xref="ECOCYC:EG11511"
+                     /db_xref="GeneID:944760"
+     CDS             9306..9893
+                     /gene="mog"
+                     /locus_tag="b0009"
+                     /gene_synonym="bisD; chlG; ECK0009; mogA; yaaG"
+                     /EC_number="2.7.7.75"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="molybdopterin adenylyltransferase"
+                     /protein_id="NP_414550.1"
+                     /db_xref="UniProtKB/Swiss-Prot:P0AF03"
+                     /db_xref="ASAP:ABE-0000030"
+                     /db_xref="ECOCYC:EG11511"
+                     /db_xref="GeneID:944760"
+                     /translation="MNTLRIGLVSISDRASSGVYQDKGIPALEEWLTSALTTPFELET
+                     RLIPDEQAIIEQTLCELVDEMSCHLVLTTGGTGPARRDVTPDATLAVADREMPGFGEQ
+                     MRQISLHFVPTAILSRQVGVIRKQALILNLPGQPKSIKETLEGVKDAEGNVVVHGIFA
+                     SVPYCIQLLEGPYVETAPEVVAAFRPKSARRDVSE"
+     gene            complement(9928..10494)
+                     /gene="satP"
+                     /locus_tag="b0010"
+                     /gene_synonym="ECK0010; yaaH"
+                     /db_xref="ASAP:ABE-0000032"
+                     /db_xref="ECOCYC:EG11512"
+                     /db_xref="GeneID:944792"
+     CDS             complement(9928..10494)
+                     /gene="satP"
+                     /locus_tag="b0010"
+                     /gene_synonym="ECK0010; yaaH"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="acetate/succinate:H(+) symporter"
+                     /protein_id="NP_414551.1"
+                     /db_xref="UniProtKB/Swiss-Prot:P0AC98"
+                     /db_xref="ASAP:ABE-0000032"
+                     /db_xref="ECOCYC:EG11512"
+                     /db_xref="GeneID:944792"
+                     /translation="MGNTKLANPAPLGLMGFGMTTILLNLHNVGYFALDGIILAMGIF
+                     YGGIAQIFAGLLEYKKGNTFGLTAFTSYGSFWLTLVAILLMPKLGLTDAPNAQFLGVY
+                     LGLWGVFTLFMFFGTLKGARVLQFVFFSLTVLFALLAIGNIAGNAAIIHFAGWIGLIC
+                     GASAIYLAMGEVLNEQFGRTVLPIGESH"
+     gene            complement(10643..11356)
+                     /gene="yaaW"
+                     /locus_tag="b0011"
+                     /gene_synonym="ECK0011"
+                     /db_xref="ASAP:ABE-0000037"
+                     /db_xref="ECOCYC:G6082"
+                     /db_xref="GeneID:944771"
+     CDS             complement(10643..11356)
+                     /gene="yaaW"
+                     /locus_tag="b0011"
+                     /gene_synonym="ECK0011"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="putative enzyme-specific chaperone YaaW"
+                     /protein_id="NP_414552.1"
+                     /db_xref="UniProtKB/Swiss-Prot:P75617"
+                     /db_xref="ASAP:ABE-0000037"
+                     /db_xref="ECOCYC:G6082"
+                     /db_xref="GeneID:944771"
+                     /translation="MNVNYLNDSDLDFLQHCSEEQLANFARLLTHNEKGKTRLSSVLM
+                     RNELFKSMEGHPEQHRRNWQLIAGELQHFGGDSIANKLRGHGKLYRAILLDVSKRLKL
+                     KADKEMSTFEIEQQLLEQFLRNTWKKMDEEHKQEFLHAVDARVNELEELLPLLMKDKL
+                     LAKGVSHLLSSQLTRILRTHAAMSVLGHGLLRGAGLGGPVGAALNGVKAVSGSAYRVT
+                     IPAVLQIACLRRMVSATQV"
+     gene            10830..11315
+                     /gene="mbiA"
+                     /locus_tag="b0012"
+                     /gene_synonym="ECK0012; htgA; htpY"
+                     /db_xref="ASAP:ABE-0000040"
+                     /db_xref="ECOCYC:EG11509"
+                     /db_xref="GeneID:948295"
+     CDS             10830..11315
+                     /gene="mbiA"
+                     /locus_tag="b0012"
+                     /gene_synonym="ECK0012; htgA; htpY"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="uncharacterized protein MbiA"
+                     /protein_id="YP_009518733.1"
+                     /db_xref="UniProtKB/Swiss-Prot:P28697"
+                     /db_xref="ASAP:ABE-0000040"
+                     /db_xref="ECOCYC:EG11509"
+                     /db_xref="GeneID:948295"
+                     /translation="MRVSWLESKCDTPFANNLSFISSGSSSSSSFTLASTACRNSCLC
+                     SSSIFFQVLRRNCSSNCCSISNVDISLSAFSFNRFETSSKMARYNLPCPRSLLAILSP
+                     PKCCNSPAISCQLRRCCSGCPSIDLNSSLRISTLERRVLPFSLWVSNRAKFANCSSLQ
+                     C"
+     gene            complement(11382..11786)
+                     /gene="yaaI"
+                     /locus_tag="b0013"
+                     /gene_synonym="ECK0013"
+                     /db_xref="ASAP:ABE-0000043"
+                     /db_xref="ECOCYC:G8202"
+                     /db_xref="GeneID:944751"
+     CDS             complement(11382..11786)
+                     /gene="yaaI"
+                     /locus_tag="b0013"
+                     /gene_synonym="ECK0013"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="DUF2541 domain-containing protein YaaI"
+                     /protein_id="NP_414554.1"
+                     /db_xref="UniProtKB/Swiss-Prot:P28696"
+                     /db_xref="ASAP:ABE-0000043"
+                     /db_xref="ECOCYC:G8202"
+                     /db_xref="GeneID:944751"
+                     /translation="MKSVFTISASLAISLMLCCTAQANDHKLLGAIAMPRNETNDLAL
+                     KLPVCRIVKRIQLSADHGDLQLSGASVYFKAARSASQSLNIPSEIKEGQTTDWININS
+                     DNDNKRCVSKITFSGHTVNSSDMATLKIIGDD"
+     gene            12163..14079
+                     /gene="dnaK"
+                     /locus_tag="b0014"
+                     /gene_synonym="ECK0014; groPAB; groPC; groPF; grpC; grpF;
+                     seg"
+                     /db_xref="ASAP:ABE-0000052"
+                     /db_xref="ECOCYC:EG10241"
+                     /db_xref="GeneID:944750"
+     CDS             12163..14079
+                     /gene="dnaK"
+                     /locus_tag="b0014"
+                     /gene_synonym="ECK0014; groPAB; groPC; groPF; grpC; grpF;
+                     seg"
+                     /EC_number="3.6.4.10"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="chaperone protein DnaK"
+                     /protein_id="NP_414555.1"
+                     /db_xref="UniProtKB/Swiss-Prot:P0A6Y8"
+                     /db_xref="ASAP:ABE-0000052"
+                     /db_xref="ECOCYC:EG10241"
+                     /db_xref="GeneID:944750"
+                     /translation="MGKIIGIDLGTTNSCVAIMDGTTPRVLENAEGDRTTPSIIAYTQ
+                     DGETLVGQPAKRQAVTNPQNTLFAIKRLIGRRFQDEEVQRDVSIMPFKIIAADNGDAW
+                     VEVKGQKMAPPQISAEVLKKMKKTAEDYLGEPVTEAVITVPAYFNDAQRQATKDAGRI
+                     AGLEVKRIINEPTAAALAYGLDKGTGNRTIAVYDLGGGTFDISIIEIDEVDGEKTFEV
+                     LATNGDTHLGGEDFDSRLINYLVEEFKKDQGIDLRNDPLAMQRLKEAAEKAKIELSSA
+                     QQTDVNLPYITADATGPKHMNIKVTRAKLESLVEDLVNRSIEPLKVALQDAGLSVSDI
+                     DDVILVGGQTRMPMVQKKVAEFFGKEPRKDVNPDEAVAIGAAVQGGVLTGDVKDVLLL
+                     DVTPLSLGIETMGGVMTTLIAKNTTIPTKHSQVFSTAEDNQSAVTIHVLQGERKRAAD
+                     NKSLGQFNLDGINPAPRGMPQIEVTFDIDADGILHVSAKDKNSGKEQKITIKASSGLN
+                     EDEIQKMVRDAEANAEADRKFEELVQTRNQGDHLLHSTRKQVEEAGDKLPADDKTAIE
+                     SALTALETALKGEDKAAIEAKMQELAQVSQKLMEIAQQQHAQQQTAGADASANNAKDD
+                     DVVDAEFEEVKDKK"
+     gene            14168..15298
+                     /gene="dnaJ"
+                     /locus_tag="b0015"
+                     /gene_synonym="ECK0015; groP; grpC"
+                     /db_xref="ASAP:ABE-0000054"
+                     /db_xref="ECOCYC:EG10240"
+                     /db_xref="GeneID:944753"
+     CDS             14168..15298
+                     /gene="dnaJ"
+                     /locus_tag="b0015"
+                     /gene_synonym="ECK0015; groP; grpC"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="chaperone protein DnaJ"
+                     /protein_id="NP_414556.1"
+                     /db_xref="UniProtKB/Swiss-Prot:P08622"
+                     /db_xref="ASAP:ABE-0000054"
+                     /db_xref="ECOCYC:EG10240"
+                     /db_xref="GeneID:944753"
+                     /translation="MAKQDYYEILGVSKTAEEREIRKAYKRLAMKYHPDRNQGDKEAE
+                     AKFKEIKEAYEVLTDSQKRAAYDQYGHAAFEQGGMGGGGFGGGADFSDIFGDVFGDIF
+                     GGGRGRQRAARGADLRYNMELTLEEAVRGVTKEIRIPTLEECDVCHGSGAKPGTQPQT
+                     CPTCHGSGQVQMRQGFFAVQQTCPHCQGRGTLIKDPCNKCHGHGRVERSKTLSVKIPA
+                     GVDTGDRIRLAGEGEAGEHGAPAGDLYVQVQVKQHPIFEREGNNLYCEVPINFAMAAL
+                     GGEIEVPTLDGRVKLKVPGETQTGKLFRMRGKGVKSVRGGAQGDLLCRVVVETPVGLN
+                     ERQKQLLQELQESFGGPTGEHNSPRSKSFFDGVKKFFDDLTR"
+     mobile_element  15387..16731
+                     /mobile_element_type="insertion sequence:IS186A"
+     gene            15445..16557
+                     /gene="insL1"
+                     /locus_tag="b0016"
+                     /gene_synonym="ECK0016; yi81-1"
+                     /db_xref="ASAP:ABE-0000058"
+                     /db_xref="ECOCYC:G6083"
+                     /db_xref="GeneID:944754"
+     CDS             15445..16557
+                     /gene="insL1"
+                     /locus_tag="b0016"
+                     /gene_synonym="ECK0016; yi81-1"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="IS186/IS421 family transposase"
+                     /protein_id="NP_414557.1"
+                     /db_xref="UniProtKB/Swiss-Prot:P0CF91"
+                     /db_xref="ASAP:ABE-0000058"
+                     /db_xref="ECOCYC:G6083"
+                     /db_xref="GeneID:944754"
+                     /translation="MNYSHDNWSAILAHIGKPEELDTSARNAGALTRRREIRDAATLL
+                     RLGLAYGPGGMSLREVTAWAQLHDVATLSDVALLKRLRNAADWFGILAAQTLAVRAAV
+                     TGCTSGKRLRLVDGTAISAPGGGSAEWRLHMGYDPHTCQFTDFELTDSRDAERLDRFA
+                     QTADEIRIADRGFGSRPECIRSLAFGEADYIVRVHWRGLRWLTAEGMRFDMMGFLRGL
+                     DCGKNGETTVMIGNSGNKKAGAPFPARLIAVSLPPEKALISKTRLLSENRRKGRVVQA
+                     ETLEAAGHVLLLTSLPEDEYSAEQVADCYRLRWQIELAFKRLKSLLHLDALRAKEPEL
+                     AKAWIFANLLAAFLIDDIIQPSLDFPPRSAGSEKKN"
+     gene            complement(16751..16960)
+                     /gene="mokC"
+                     /locus_tag="b0018"
+                     /gene_synonym="ECK0018; gefL"
+                     /db_xref="ASAP:ABE-0000064"
+                     /db_xref="ECOCYC:EG10373"
+                     /db_xref="GeneID:944756"
+     CDS             complement(16751..16960)
+                     /gene="mokC"
+                     /locus_tag="b0018"
+                     /gene_synonym="ECK0018; gefL"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="regulatory protein MokC"
+                     /protein_id="NP_414559.1"
+                     /db_xref="UniProtKB/Swiss-Prot:P33236"
+                     /db_xref="ASAP:ABE-0000064"
+                     /db_xref="ECOCYC:EG10373"
+                     /db_xref="GeneID:944756"
+                     /translation="MLNTCRVPLTDRKVKEKRAMKQHKAMIVALIVICITAVVAALVT
+                     RKDLCEVHIRTGQTEVAVFTAYESE"
+     gene            complement(16751..16903)
+                     /gene="hokC"
+                     /locus_tag="b4412"
+                     /gene_synonym="ECK0017; gef"
+                     /db_xref="ASAP:ABE-0047278"
+                     /db_xref="ECOCYC:G0-9563"
+                     /db_xref="GeneID:2847744"
+     CDS             complement(16751..16903)
+                     /gene="hokC"
+                     /locus_tag="b4412"
+                     /gene_synonym="ECK0017; gef"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="protein HokC"
+                     /protein_id="YP_025292.1"
+                     /db_xref="UniProtKB/Swiss-Prot:P0ACG4"
+                     /db_xref="ASAP:ABE-0047278"
+                     /db_xref="ECOCYC:G0-9563"
+                     /db_xref="GeneID:2847744"
+                     /translation="MKQHKAMIVALIVICITAVVAALVTRKDLCEVHIRTGQTEVAVF
+                     TAYESE"
+     gene            16952..17010
+                     /gene="sokC"
+                     /locus_tag="b4413"
+                     /gene_synonym="ECK0019; sof"
+                     /db_xref="ASAP:ABE-0047238"
+                     /db_xref="ECOCYC:G0-9581"
+                     /db_xref="GeneID:2847745"
+     ncRNA           16952..17010
+                     /ncRNA_class="other"
+                     /gene="sokC"
+                     /locus_tag="b4413"
+                     /gene_synonym="ECK0019; sof"
+                     /product="small regulatory RNA antitoxin SokC"
+                     /db_xref="ASAP:ABE-0047238"
+                     /db_xref="ECOCYC:G0-9581"
+                     /db_xref="GeneID:2847745"
+     gene            17489..18655
+                     /gene="nhaA"
+                     /locus_tag="b0019"
+                     /gene_synonym="ant; antA; ECK0020"
+                     /db_xref="ASAP:ABE-0000068"
+                     /db_xref="ECOCYC:EG10652"
+                     /db_xref="GeneID:944758"
+     CDS             17489..18655
+                     /gene="nhaA"
+                     /locus_tag="b0019"
+                     /gene_synonym="ant; antA; ECK0020"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="Na(+):H(+) antiporter NhaA"
+                     /protein_id="NP_414560.1"
+                     /db_xref="UniProtKB/Swiss-Prot:P13738"
+                     /db_xref="ASAP:ABE-0000068"
+                     /db_xref="ECOCYC:EG10652"
+                     /db_xref="GeneID:944758"
+                     /translation="MKHLHRFFSSDASGGIILIIAAILAMIMANSGATSGWYHDFLET
+                     PVQLRVGSLEINKNMLLWINDALMAVFFLLVGLEVKRELMQGSLASLRQAAFPVIAAI
+                     GGMIVPALLYLAFNYADPITREGWAIPAATDIAFALGVLALLGSRVPLALKIFLMALA
+                     IIDDLGAIIIIALFYTNDLSMASLGVAAVAIAVLAVLNLCGARRTGVYILVGVVLWTA
+                     VLKSGVHATLAGVIVGFFIPLKEKHGRSPAKRLEHVLHPWVAYLILPLFAFANAGVSL
+                     QGVTLDGLTSILPLGIIAGLLIGKPLGISLFCWLALRLKLAHLPEGTTYQQIMVVGIL
+                     CGIGFTMSIFIASLAFGSVDPELINWAKLGILVGSISSAVIGYSWLRVRLRPSV"
+     gene            18715..19620
+                     /gene="nhaR"
+                     /locus_tag="b0020"
+                     /gene_synonym="antO; ECK0021; yaaB"
+                     /db_xref="ASAP:ABE-0000072"
+                     /db_xref="ECOCYC:EG11078"
+                     /db_xref="GeneID:944757"
+     CDS             18715..19620
+                     /gene="nhaR"
+                     /locus_tag="b0020"
+                     /gene_synonym="antO; ECK0021; yaaB"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="DNA-binding transcriptional activator NhaR"
+                     /protein_id="NP_414561.1"
+                     /db_xref="UniProtKB/Swiss-Prot:P0A9G2"
+                     /db_xref="ASAP:ABE-0000072"
+                     /db_xref="ECOCYC:EG11078"
+                     /db_xref="GeneID:944757"
+                     /translation="MSMSHINYNHLYYFWHVYKEGSVVGAAEALYLTPQTITGQIRAL
+                     EERLQGKLFKRKGRGLEPSELGELVYRYADKMFTLSQEMLDIVNYRKESNLLFDVGVA
+                     DALSKRLVSSVLNAAVVEGEPIHLRCFESTHEMLLEQLSQHKLDMIISDCPIDSTQQE
+                     GLFSVRIGECGVSFWCTNPPPEKPFPACLEERRLLIPGRRSMLGRKLLNWFNSQGLNV
+                     EILGEFDDAALMKAFGAMHNAIFVAPTLYAYDFYADKTVVEIGRVENVMEEYHAIFAE
+                     RMIQHPAVQRICNTDYSALFSPAVR"
+     mobile_element  complement(19796..20563)
+                     /mobile_element_type="insertion sequence:IS1A"
+     gene            complement(19811..20314)
+                     /gene="insB1"
+                     /locus_tag="b0021"
+                     /gene_synonym="ECK0022"
+                     /db_xref="ASAP:ABE-0000075"
+                     /db_xref="ECOCYC:G6085"
+                     /db_xref="GeneID:944743"
+     CDS             complement(19811..20314)
+                     /gene="insB1"
+                     /locus_tag="b0021"
+                     /gene_synonym="ECK0022"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="IS1 family protein InsB"
+                     /protein_id="NP_414562.1"
+                     /db_xref="UniProtKB/Swiss-Prot:P0CF25"
+                     /db_xref="ASAP:ABE-0000075"
+                     /db_xref="ECOCYC:G6085"
+                     /db_xref="GeneID:944743"
+                     /translation="MPGNSPHYGRWPQHDFTSLKKLRPQSVTSRIQPGSDVIVCAEMD
+                     EQWGYVGAKSRQRWLFYAYDSLRKTVVAHVFGERTMATLGRLMSLLSPFDVVIWMTDG
+                     WPLYESRLKGKLHVISKRYTQRIERHNLNLRQHLARLGRKSLSFSKSVELHDKVIGHY
+                     LNIKHYQ"
+     gene            complement(20233..20508)
+                     /gene="insA1"
+                     /locus_tag="b0022"
+                     /gene_synonym="ECK0023"
+                     /db_xref="ASAP:ABE-0000078"
+                     /db_xref="ECOCYC:G6086"
+                     /db_xref="GeneID:948449"
+     CDS             complement(20233..20508)
+                     /gene="insA1"
+                     /locus_tag="b0022"
+                     /gene_synonym="ECK0023"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="IS1 family protein InsA"
+                     /protein_id="NP_414563.1"
+                     /db_xref="UniProtKB/Swiss-Prot:P0CF07"
+                     /db_xref="ASAP:ABE-0000078"
+                     /db_xref="ECOCYC:G6086"
+                     /db_xref="GeneID:948449"
+                     /translation="MASVSISCPSCSATDGVVRNGKSTAGHQRYLCSHCRKTWQLQFT
+                     YTASQPGTHQKIIDMAMNGVGCRATARIMGVGLNTILRHLKNSGRSR"
+     gene            complement(20815..21078)
+                     /gene="rpsT"
+                     /locus_tag="b0023"
+                     /gene_synonym="ECK0024; sup(s20); supS; supS20"
+                     /db_xref="ASAP:ABE-0000082"
+                     /db_xref="ECOCYC:EG10919"
+                     /db_xref="GeneID:944759"
+     CDS             complement(20815..21078)
+                     /gene="rpsT"
+                     /locus_tag="b0023"
+                     /gene_synonym="ECK0024; sup(s20); supS; supS20"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="30S ribosomal subunit protein S20"
+                     /protein_id="NP_414564.1"
+                     /db_xref="UniProtKB/Swiss-Prot:P0A7U7"
+                     /db_xref="ASAP:ABE-0000082"
+                     /db_xref="ECOCYC:EG10919"
+                     /db_xref="GeneID:944759"
+                     /translation="MANIKSAKKRAIQSEKARKHNASRRSMMRTFIKKVYAAIEAGDK
+                     AAAQKAFNEMQPIVDRQAAKGLIHKNKAARHKANLTAQINKLA"
+     gene            21181..21399
+                     /gene="yaaY"
+                     /locus_tag="b0024"
+                     /gene_synonym="ECK0025"
+                     /db_xref="ASAP:ABE-0000089"
+                     /db_xref="ECOCYC:G6087"
+                     /db_xref="GeneID:949128"
+     CDS             21181..21399
+                     /gene="yaaY"
+                     /locus_tag="b0024"
+                     /gene_synonym="ECK0025"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="DUF2575 domain-containing protein YaaY"
+                     /protein_id="NP_414565.1"
+                     /db_xref="UniProtKB/Swiss-Prot:P75620"
+                     /db_xref="ASAP:ABE-0000089"
+                     /db_xref="ECOCYC:G6087"
+                     /db_xref="GeneID:949128"
+                     /translation="MCRHSLRSDGAGFYQLAGCEYSFSAIKIAAGGQFLPVICAMAMK
+                     SHFFLISVLNRRLTLTAVQGILGRFSLF"
+     gene            21407..22348
+                     /gene="ribF"
+                     /locus_tag="b0025"
+                     /gene_synonym="ECK0026; yaaC"
+                     /db_xref="ASAP:ABE-0000091"
+                     /db_xref="ECOCYC:EG11079"
+                     /db_xref="GeneID:949129"
+     CDS             21407..22348
+                     /gene="ribF"
+                     /locus_tag="b0025"
+                     /gene_synonym="ECK0026; yaaC"
+                     /EC_number="2.7.1.26"
+                     /EC_number="2.7.7.2"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="bifunctional riboflavin kinase/FMN
+                     adenylyltransferase"
+                     /protein_id="NP_414566.1"
+                     /db_xref="UniProtKB/Swiss-Prot:P0AG40"
+                     /db_xref="ASAP:ABE-0000091"
+                     /db_xref="ECOCYC:EG11079"
+                     /db_xref="GeneID:949129"
+                     /translation="MKLIRGIHNLSQAPQEGCVLTIGNFDGVHRGHRALLQGLQEEGR
+                     KRNLPVMVMLFEPQPLELFATDKAPARLTRLREKLRYLAECGVDYVLCVRFDRRFAAL
+                     TAQNFISDLLVKHLRVKFLAVGDDFRFGAGREGDFLLLQKAGMEYGFDITSTQTFCEG
+                     GVRISSTAVRQALADDNLALAESLLGHPFAISGRVVHGDELGRTIGFPTANVPLRRQV
+                     SPVKGVYAVEVLGLGEKPLPGVANIGTRPTVAGIRQQLEVHLLDVAMDLYGRHIQVVL
+                     RKKIRNEQRFASLDELKAQIARDELTAREFFGLTKPA"
+     gene            22391..25207
+                     /gene="ileS"
+                     /locus_tag="b0026"
+                     /gene_synonym="ECK0027; ilvS"
+                     /db_xref="ASAP:ABE-0000094"
+                     /db_xref="ECOCYC:EG10492"
+                     /db_xref="GeneID:944761"
+     CDS             22391..25207
+                     /gene="ileS"
+                     /locus_tag="b0026"
+                     /gene_synonym="ECK0027; ilvS"
+                     /EC_number="6.1.1.5"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="isoleucine--tRNA ligase"
+                     /protein_id="NP_414567.1"
+                     /db_xref="UniProtKB/Swiss-Prot:P00956"
+                     /db_xref="ASAP:ABE-0000094"
+                     /db_xref="ECOCYC:EG10492"
+                     /db_xref="GeneID:944761"
+                     /translation="MSDYKSTLNLPETGFPMRGDLAKREPGMLARWTDDDLYGIIRAA
+                     KKGKKTFILHDGPPYANGSIHIGHSVNKILKDIIVKSKGLSGYDSPYVPGWDCHGLPI
+                     ELKVEQEYGKPGEKFTAAEFRAKCREYAATQVDGQRKDFIRLGVLGDWSHPYLTMDFK
+                     TEANIIRALGKIIGNGHLHKGAKPVHWCVDCRSALAEAEVEYYDKTSPSIDVAFQAVD
+                     QDALKAKFAVSNVNGPISLVIWTTTPWTLPANRAISIAPDFDYALVQIDGQAVILAKD
+                     LVESVMQRIGVTDYTILGTVKGAELELLRFTHPFMGFDVPAILGDHVTLDAGTGAVHT
+                     APGHGPDDYVIGQKYGLETANPVGPDGTYLPGTYPTLDGVNVFKANDIVVALLQEKGA
+                     LLHVEKMQHSYPCCWRHKTPIIFRATPQWFVSMDQKGLRAQSLKEIKGVQWIPDWGQA
+                     RIESMVANRPDWCISRQRTWGVPMSLFVHKDTEELHPRTLELMEEVAKRVEVDGIQAW
+                     WDLDAKEILGDEADQYVKVPDTLDVWFDSGSTHSSVVDVRPEFAGHAADMYLEGSDQH
+                     RGWFMSSLMISTAMKGKAPYRQVLTHGFTVDGQGRKMSKSIGNTVSPQDVMNKLGADI
+                     LRLWVASTDYTGEMAVSDEILKRAADSYRRIRNTARFLLANLNGFDPAKDMVKPEEMV
+                     VLDRWAVGCAKAAQEDILKAYEAYDFHEVVQRLMRFCSVEMGSFYLDIIKDRQYTAKA
+                     DSVARRSCQTALYHIAEALVRWMAPILSFTADEVWGYLPGEREKYVFTGEWYEGLFGL
+                     ADSEAMNDAFWDELLKVRGEVNKVIEQARADKKVGGSLEAAVTLYAEPELSAKLTALG
+                     DELRFVLLTSGATVADYNDAPADAQQSEVLKGLKVALSKAEGEKCPRCWHYTQDVGKV
+                     AEHAEICGRCVSNVAGDGEKRKFA"
+     gene            25207..25701
+                     /gene="lspA"
+                     /locus_tag="b0027"
+                     /gene_synonym="ECK0028; lsp"
+                     /db_xref="ASAP:ABE-0000096"
+                     /db_xref="ECOCYC:EG10548"
+                     /db_xref="GeneID:944800"
+     CDS             25207..25701
+                     /gene="lspA"
+                     /locus_tag="b0027"
+                     /gene_synonym="ECK0028; lsp"
+                     /EC_number="3.4.23.36"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="lipoprotein signal peptidase"
+                     /protein_id="NP_414568.1"
+                     /db_xref="UniProtKB/Swiss-Prot:P00804"
+                     /db_xref="ASAP:ABE-0000096"
+                     /db_xref="ECOCYC:EG10548"
+                     /db_xref="GeneID:944800"
+                     /translation="MSQSICSTGLRWLWLVVVVLIIDLGSKYLILQNFALGDTVPLFP
+                     SLNLHYARNYGAAFSFLADSGGWQRWFFAGIAIGISVILAVMMYRSKATQKLNNIAYA
+                     LIIGGALGNLFDRLWHGFVVDMIDFYVGDWHFATFNLADTAICVGAALIVLEGFLPSR
+                     AKKQ"
+     gene            25826..26275
+                     /gene="fkpB"
+                     /locus_tag="b0028"
+                     /gene_synonym="ECK0029; slpA; yaaD"
+                     /db_xref="ASAP:ABE-0000101"
+                     /db_xref="ECOCYC:EG11080"
+                     /db_xref="GeneID:944807"
+     CDS             25826..26275
+                     /gene="fkpB"
+                     /locus_tag="b0028"
+                     /gene_synonym="ECK0029; slpA; yaaD"
+                     /EC_number="5.2.1.8"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="peptidyl-prolyl cis-trans isomerase FkpB"
+                     /protein_id="NP_414569.1"
+                     /db_xref="UniProtKB/Swiss-Prot:P0AEM0"
+                     /db_xref="ASAP:ABE-0000101"
+                     /db_xref="ECOCYC:EG11080"
+                     /db_xref="GeneID:944807"
+                     /translation="MSESVQSNSAVLVHFTLKLDDGTTAESTRNNGKPALFRLGDASL
+                     SEGLEQHLLGLKVGDKTTFSLEPDAAFGVPSPDLIQYFSRREFMDAGEPEIGAIMLFT
+                     AMDGSEMPGVIREINGDSITVDFNHPLAGQTVHFDIEVLEIDPALEA"
+     gene            26277..27227
+                     /gene="ispH"
+                     /locus_tag="b0029"
+                     /gene_synonym="ECK0030; lytB; yaaE"
+                     /db_xref="ASAP:ABE-0000103"
+                     /db_xref="ECOCYC:EG11081"
+                     /db_xref="GeneID:944777"
+     CDS             26277..27227
+                     /gene="ispH"
+                     /locus_tag="b0029"
+                     /gene_synonym="ECK0030; lytB; yaaE"
+                     /EC_number="1.17.7.4"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="4-hydroxy-3-methylbut-2-enyl diphosphate
+                     reductase"
+                     /protein_id="NP_414570.1"
+                     /db_xref="UniProtKB/Swiss-Prot:P62623"
+                     /db_xref="ASAP:ABE-0000103"
+                     /db_xref="ECOCYC:EG11081"
+                     /db_xref="GeneID:944777"
+                     /translation="MQILLANPRGFCAGVDRAISIVENALAIYGAPIYVRHEVVHNRY
+                     VVDSLRERGAIFIEQISEVPDGAILIFSAHGVSQAVRNEAKSRDLTVFDATCPLVTKV
+                     HMEVARASRRGEESILIGHAGHPEVEGTMGQYSNPEGGMYLVESPDDVWKLTVKNEEK
+                     LSFMTQTTLSVDDTSDVIDALRKRFPKIVGPRKDDICYATTNRQEAVRALAEQAEVVL
+                     VVGSKNSSNSNRLAELAQRMGKRAFLIDDAKDIQEEWVKEVKCVGVTAGASAPDILVQ
+                     NVVARLQQLGGGEAIPLEGREENIVFEVPKELRVDIREVD"
+     gene            27293..28207
+                     /gene="rihC"
+                     /locus_tag="b0030"
+                     /gene_synonym="ECK0031; yaaF"
+                     /db_xref="ASAP:ABE-0000109"
+                     /db_xref="ECOCYC:EG11082"
+                     /db_xref="GeneID:944796"
+     CDS             27293..28207
+                     /gene="rihC"
+                     /locus_tag="b0030"
+                     /gene_synonym="ECK0031; yaaF"
+                     /EC_number="3.2.2.1"
+                     /EC_number="3.2.2.2"
+                     /EC_number="3.2.2.3"
+                     /EC_number="3.2.2.7"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="ribonucleoside hydrolase RihC"
+                     /protein_id="NP_414571.1"
+                     /db_xref="UniProtKB/Swiss-Prot:P22564"
+                     /db_xref="ASAP:ABE-0000109"
+                     /db_xref="ECOCYC:EG11082"
+                     /db_xref="GeneID:944796"
+                     /translation="MRLPIFLDTDPGIDDAVAIAAAIFAPELDLQLMTTVAGNVSVEK
+                     TTRNALQLLHFWNAEIPLAQGAAVPLVRAPRDAASVHGESGMAGYDFVEHNRKPLGIP
+                     AFLAIRDALMRAPEPVTLVAIGPLTNIALLLSQCPECKPYIRRLVIMGGSAGRGNCTP
+                     NAEFNIAADPEAAACVFRSGIEIVMCGLDVTNQAILTPDYLSTLPQLNRTGKMLHALF
+                     SHYRSGSMQSGLRMHDLCAIAWLVRPDLFTLKPCFVAVETQGEFTSGTTVVDIDGCLG
+                     KPANVQVALDLDVKGFQQWVAEVLALAS"
+     gene            28374..29195
+                     /gene="dapB"
+                     /locus_tag="b0031"
+                     /gene_synonym="ECK0032"
+                     /db_xref="ASAP:ABE-0000112"
+                     /db_xref="ECOCYC:EG10206"
+                     /db_xref="GeneID:944762"
+     CDS             28374..29195
+                     /gene="dapB"
+                     /locus_tag="b0031"
+                     /gene_synonym="ECK0032"
+                     /EC_number="1.17.1.8"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="4-hydroxy-tetrahydrodipicolinate reductase"
+                     /protein_id="NP_414572.1"
+                     /db_xref="UniProtKB/Swiss-Prot:P04036"
+                     /db_xref="ASAP:ABE-0000112"
+                     /db_xref="ECOCYC:EG10206"
+                     /db_xref="GeneID:944762"
+                     /translation="MHDANIRVAIAGAGGRMGRQLIQAALALEGVQLGAALEREGSSL
+                     LGSDAGELAGAGKTGVTVQSSLDAVKDDFDVFIDFTRPEGTLNHLAFCRQHGKGMVIG
+                     TTGFDEAGKQAIRDAAADIAIVFAANFSVGVNVMLKLLEKAAKVMGDYTDIEIIEAHH
+                     RHKVDAPSGTALAMGEAIAHALDKDLKDCAVYSREGHTGERVPGTIGFATVRAGDIVG
+                     EHTAMFADIGERLEITHKASSRMTFANGAVRSALWLSGKESGLFDMRDVLDLNNL"
+     gene            29651..30799
+                     /gene="carA"
+                     /locus_tag="b0032"
+                     /gene_synonym="arg; ECK0033; pyrA"
+                     /db_xref="ASAP:ABE-0000118"
+                     /db_xref="ECOCYC:EG10134"
+                     /db_xref="GeneID:949025"
+     CDS             29651..30799
+                     /gene="carA"
+                     /locus_tag="b0032"
+                     /gene_synonym="arg; ECK0033; pyrA"
+                     /EC_number="6.3.5.5"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="carbamoyl-phosphate synthetase small subunit"
+                     /protein_id="NP_414573.1"
+                     /db_xref="UniProtKB/Swiss-Prot:P0A6F1"
+                     /db_xref="ASAP:ABE-0000118"
+                     /db_xref="ECOCYC:EG10134"
+                     /db_xref="GeneID:949025"
+                     /translation="MIKSALLVLEDGTQFHGRAIGATGSAVGEVVFNTSMTGYQEILT
+                     DPSYSRQIVTLTYPHIGNVGTNDADEESSQVHAQGLVIRDLPLIASNFRNTEDLSSYL
+                     KRHNIVAIADIDTRKLTRLLREKGAQNGCIIAGDNPDAALALEKARAFPGLNGMDLAK
+                     EVTTAEAYSWTQGSWTLTGGLPEAKKEDELPFHVVAYDFGAKRNILRMLVDRGCRLTI
+                     VPAQTSAEDVLKMNPDGIFLSNGPGDPAPCDYAITAIQKFLETDIPVFGICLGHQLLA
+                     LASGAKTVKMKFGHHGGNHPVKDVEKNVVMITAQNHGFAVDEATLPANLRVTHKSLFD
+                     GTLQGIHRTDKPAFSFQGHPEASPGPHDAAPLFDHFIELIEQYRKTAK"
+     gene            30817..34038
+                     /gene="carB"
+                     /locus_tag="b0033"
+                     /gene_synonym="ECK0034; pyrA"
+                     /db_xref="ASAP:ABE-0000121"
+                     /db_xref="ECOCYC:EG10135"
+                     /db_xref="GeneID:944775"
+     CDS             30817..34038
+                     /gene="carB"
+                     /locus_tag="b0033"
+                     /gene_synonym="ECK0034; pyrA"
+                     /EC_number="6.3.5.5"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="carbamoyl-phosphate synthetase large subunit"
+                     /protein_id="NP_414574.1"
+                     /db_xref="UniProtKB/Swiss-Prot:P00968"
+                     /db_xref="ASAP:ABE-0000121"
+                     /db_xref="ECOCYC:EG10135"
+                     /db_xref="GeneID:944775"
+                     /translation="MPKRTDIKSILILGAGPIVIGQACEFDYSGAQACKALREEGYRV
+                     ILVNSNPATIMTDPEMADATYIEPIHWEVVRKIIEKERPDAVLPTMGGQTALNCALEL
+                     ERQGVLEEFGVTMIGATADAIDKAEDRRRFDVAMKKIGLETARSGIAHTMEEALAVAA
+                     DVGFPCIIRPSFTMGGSGGGIAYNREEFEEICARGLDLSPTKELLIDESLIGWKEYEM
+                     EVVRDKNDNCIIVCSIENFDAMGIHTGDSITVAPAQTLTDKEYQIMRNASMAVLREIG
+                     VETGGSNVQFAVNPKNGRLIVIEMNPRVSRSSALASKATGFPIAKVAAKLAVGYTLDE
+                     LMNDITGGRTPASFEPSIDYVVTKIPRFNFEKFAGANDRLTTQMKSVGEVMAIGRTQQ
+                     ESLQKALRGLEVGATGFDPKVSLDDPEALTKIRRELKDAGADRIWYIADAFRAGLSVD
+                     GVFNLTNIDRWFLVQIEELVRLEEKVAEVGITGLNADFLRQLKRKGFADARLAKLAGV
+                     REAEIRKLRDQYDLHPVYKRVDTCAAEFATDTAYMYSTYEEECEANPSTDREKIMVLG
+                     GGPNRIGQGIEFDYCCVHASLALREDGYETIMVNCNPETVSTDYDTSDRLYFEPVTLE
+                     DVLEIVRIEKPKGVIVQYGGQTPLKLARALEAAGVPVIGTSPDAIDRAEDRERFQHAV
+                     ERLKLKQPANATVTAIEMAVEKAKEIGYPLVVRPSYVLGGRAMEIVYDEADLRRYFQT
+                     AVSVSNDAPVLLDHFLDDAVEVDVDAICDGEMVLIGGIMEHIEQAGVHSGDSACSLPA
+                     YTLSQEIQDVMRQQVQKLAFELQVRGLMNVQFAVKNNEVYLIEVNPRAARTVPFVSKA
+                     TGVPLAKVAARVMAGKSLAEQGVTKEVIPPYYSVKEVVLPFNKFPGVDPLLGPEMRST
+                     GEVMGVGRTFAEAFAKAQLGSNSTMKKHGRALLSVREGDKERVVDLAAKLLKQGFELD
+                     ATHGTAIVLGEAGINPRLVNKVHEGRPHIQDRIKNGEYTYIINTTSGRRAIEDSRVIR
+                     RSALQYKVHYDTTLNGGFATAMALNADATEKVISVQEMHAQIK"
+     gene            34300..34695
+                     /gene="caiF"
+                     /locus_tag="b0034"
+                     /gene_synonym="ECK0035"
+                     /db_xref="ASAP:ABE-0000125"
+                     /db_xref="ECOCYC:G6088"
+                     /db_xref="GeneID:944795"
+     CDS             34300..34695
+                     /gene="caiF"
+                     /locus_tag="b0034"
+                     /gene_synonym="ECK0035"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="DNA-binding transcriptional activator CaiF"
+                     /protein_id="NP_414576.4"
+                     /db_xref="UniProtKB/Swiss-Prot:P0AE58"
+                     /db_xref="ASAP:ABE-0000125"
+                     /db_xref="ECOCYC:G6088"
+                     /db_xref="GeneID:944795"
+                     /translation="MCEGYVEKPLYLLIAEWMMAENRWVIAREISIHFDIEHSKAVNT
+                     LTYILSEVTEISCEVKMIPNKLEGRGCQCQRLVKVVDIDEQIYARLRNNSREKLVGVR
+                     KTPRIPAVPLTELNREQKWQMMLSKSMRR"
+     gene            complement(34781..35371)
+                     /gene="caiE"
+                     /locus_tag="b0035"
+                     /gene_synonym="ECK0036"
+                     /db_xref="ASAP:ABE-0000128"
+                     /db_xref="ECOCYC:EG12608"
+                     /db_xref="GeneID:948999"
+     CDS             complement(34781..35371)
+                     /gene="caiE"
+                     /locus_tag="b0035"
+                     /gene_synonym="ECK0036"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="putative transferase CaiE"
+                     /protein_id="NP_414577.2"
+                     /db_xref="UniProtKB/Swiss-Prot:P39206"
+                     /db_xref="ASAP:ABE-0000128"
+                     /db_xref="ECOCYC:EG12608"
+                     /db_xref="GeneID:948999"
+                     /translation="MSYYAFEGLIPVVHPTAFVHPSAVLIGDVIVGAGVYIGPLASLR
+                     GDYGRLIVQAGANIQDGCIMHGYCDTDTIVGENGHIGHGAILHGCLIGRDALVGMNSV
+                     IMDGAVIGEESIVAAMSFVKAGFRGEKRQLLMGTPARAVRNVSDDELHWKRLNTKEYQ
+                     DLVGRCHVSLHETQPLRQMEENRPRLQGTTDVTPKR"
+     gene            complement(35377..36162)
+                     /gene="caiD"
+                     /locus_tag="b0036"
+                     /gene_synonym="ECK0037; yaaL"
+                     /db_xref="ASAP:ABE-0000130"
+                     /db_xref="ECOCYC:EG11557"
+                     /db_xref="GeneID:948995"
+     CDS             complement(35377..36162)
+                     /gene="caiD"
+                     /locus_tag="b0036"
+                     /gene_synonym="ECK0037; yaaL"
+                     /EC_number="4.2.1.149"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="crotonobetainyl-CoA hydratase"
+                     /protein_id="NP_414578.2"
+                     /db_xref="UniProtKB/Swiss-Prot:P31551"
+                     /db_xref="ASAP:ABE-0000130"
+                     /db_xref="ECOCYC:EG11557"
+                     /db_xref="GeneID:948995"
+                     /translation="MSESLHLTRNGSILEITLDRPKANAIDAKTSFEMGEVFLNFRDD
+                     PQLRVAIITGAGEKFFSAGWDLKAAAEGEAPDADFGPGGFAGLTEIFNLDKPVIAAVN
+                     GYAFGGGFELALAADFIVCADNASFALPEAKLGIVPDSGGVLRLPKILPPAIVNEMVM
+                     TGRRMGAEEALRWGIVNRVVSQAELMDNARELAQQLVNSAPLAIAALKEIYRTTSEMP
+                     VEEAYRYIRSGVLKHYPSVLHSEDAIEGPLAFAEKRDPVWKGR"
+     gene            complement(36271..37824)
+                     /gene="caiC"
+                     /locus_tag="b0037"
+                     /gene_synonym="ECK0038; yaaM"
+                     /db_xref="ASAP:ABE-0000133"
+                     /db_xref="ECOCYC:EG11558"
+                     /db_xref="GeneID:944886"
+     CDS             complement(36271..37824)
+                     /gene="caiC"
+                     /locus_tag="b0037"
+                     /gene_synonym="ECK0038; yaaM"
+                     /EC_number="6.2.1.48"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="carnitine--CoA ligase"
+                     /protein_id="NP_414579.4"
+                     /db_xref="UniProtKB/Swiss-Prot:P31552"
+                     /db_xref="ASAP:ABE-0000133"
+                     /db_xref="ECOCYC:EG11558"
+                     /db_xref="GeneID:944886"
+                     /translation="MDIIGGQHLRQMWDDLADVYGHKTALICESSGGVVNRYSYLELN
+                     QEINRTANLFYTLGIRKGDKVALHLDNCPEFIFCWFGLAKIGAIMVPINARLLCEESA
+                     WILQNSQACLLVTSAQFYPMYQQIQQEDATQLRHICLTDVALPADDGVSSFTQLKNQQ
+                     PATLCYAPPLSTDDTAEILFTSGTTSRPKGVVITHYNLRFAGYYSAWQCALRDDDVYL
+                     TVMPAFHIDCQCTAAMAAFSAGATFVLVEKYSARAFWGQVQKYRATVTECIPMMIRTL
+                     MVQPPSANDQQHRLREVMFYLNLSEQEKDAFCERFGVRLLTSYGMTETIVGIIGDRPG
+                     DKRRWPSIGRVGFCYEAEIRDDHNRPLPAGEIGEICIKGIPGKTIFKEYFLNPQATAK
+                     VLEADGWLHTGDTGYRDEEDFFYFVDRRCNMIKRGGENVSCVELENIIAAHPKIQDIV
+                     VVGIKDSIRDEAIKAFVVLNEGETLSEEEFFRFCEQNMAKFKVPSYLEIRKDLPRNCS
+                     GKIIRKNLK"
+     gene            complement(37898..39115)
+                     /gene="caiB"
+                     /locus_tag="b0038"
+                     /gene_synonym="ECK0039; yaaN"
+                     /db_xref="ASAP:ABE-0000136"
+                     /db_xref="ECOCYC:EG11559"
+                     /db_xref="GeneID:948997"
+     CDS             complement(37898..39115)
+                     /gene="caiB"
+                     /locus_tag="b0038"
+                     /gene_synonym="ECK0039; yaaN"
+                     /EC_number="2.8.3.21"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="gamma-butyrobetainyl-CoA:carnitine CoA
+                     transferase"
+                     /protein_id="NP_414580.1"
+                     /db_xref="UniProtKB/Swiss-Prot:P31572"
+                     /db_xref="ASAP:ABE-0000136"
+                     /db_xref="ECOCYC:EG11559"
+                     /db_xref="GeneID:948997"
+                     /translation="MDHLPMPKFGPLAGLRVVFSGIEIAGPFAGQMFAEWGAEVIWIE
+                     NVAWADTIRVQPNYPQLSRRNLHALSLNIFKDEGREAFLKLMETTDIFIEASKGPAFA
+                     RRGITDEVLWQHNPKLVIAHLSGFGQYGTEEYTNLPAYNTIAQAFSGYLIQNGDVDQP
+                     MPAFPYTADYFSGLTATTAALAALHKVRETGKGESIDIAMYEVMLRMGQYFMMDYFNG
+                     GEMCPRMSKGKDPYYAGCGLYKCADGYIVMELVGITQIEECFKDIGLAHLLGTPEIPE
+                     GTQLIHRIECPYGPLVEEKLDAWLATHTIAEVKERFAELNIACAKVLTVPELESNPQY
+                     VARESITQWQTMDGRTCKGPNIMPKFKNNPGQIWRGMPSHGMDTAAILKNIGYSENDI
+                     QELVSKGLAKVED"
+     gene            complement(39244..40386)
+                     /gene="caiA"
+                     /locus_tag="b0039"
+                     /gene_synonym="ECK0040; yaaO"
+                     /db_xref="ASAP:ABE-0000139"
+                     /db_xref="ECOCYC:EG11560"
+                     /db_xref="GeneID:949064"
+     CDS             complement(39244..40386)
+                     /gene="caiA"
+                     /locus_tag="b0039"
+                     /gene_synonym="ECK0040; yaaO"
+                     /EC_number="1.3.8.13"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="crotonobetainyl-CoA reductase"
+                     /protein_id="NP_414581.1"
+                     /db_xref="UniProtKB/Swiss-Prot:P60584"
+                     /db_xref="ASAP:ABE-0000139"
+                     /db_xref="ECOCYC:EG11560"
+                     /db_xref="GeneID:949064"
+                     /translation="MDFNLNDEQELFVAGIRELMASENWEAYFAECDRDSVYPERFVK
+                     ALADMGIDSLLIPEEHGGLDAGFVTLAAVWMELGRLGAPTYVLYQLPGGFNTFLREGT
+                     QEQIDKIMAFRGTGKQMWNSAITEPGAGSDVGSLKTTYTRRNGKIYLNGSKCFITSSA
+                     YTPYIVVMARDGASPDKPVYTEWFVDMSKPGIKVTKLEKLGLRMDSCCEITFDDVELD
+                     EKDMFGREGNGFNRVKEEFDHERFLVALTNYGTAMCAFEDAARYANQRVQFGEAIGRF
+                     QLIQEKFAHMAIKLNSMKNMLYEAAWKADNGTITSGDAAMCKYFCANAAFEVVDSAMQ
+                     VLGGVGIAGNHRISRFWRDLRVDRVSGGSDEMQILTLGRAVLKQYR"
+     gene            complement(40417..41931)
+                     /gene="caiT"
+                     /locus_tag="b0040"
+                     /gene_synonym="ECK0041; yaaP"
+                     /db_xref="ASAP:ABE-0000141"
+                     /db_xref="ECOCYC:EG11561"
+                     /db_xref="GeneID:944765"
+     CDS             complement(40417..41931)
+                     /gene="caiT"
+                     /locus_tag="b0040"
+                     /gene_synonym="ECK0041; yaaP"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="L-carnitine:gamma-butyrobetaine antiporter"
+                     /protein_id="NP_414582.1"
+                     /db_xref="UniProtKB/Swiss-Prot:P31553"
+                     /db_xref="ASAP:ABE-0000141"
+                     /db_xref="ECOCYC:EG11561"
+                     /db_xref="GeneID:944765"
+                     /translation="MKNEKRKTGIEPKVFFPPLIIVGILCWLTVRDLDAANVVINAVF
+                     SYVTNVWGWAFEWYMVVMLFGWFWLVFGPYAKKRLGNEPPEFSTASWIFMMFASCTSA
+                     AVLFWGSIEIYYYISTPPFGLEPNSTGAKELGLAYSLFHWGPLPWATYSFLSVAFAYF
+                     FFVRKMEVIRPSSTLVPLVGEKHAKGLFGTIVDNFYLVALIFAMGTSLGLATPLVTEC
+                     MQWLFGIPHTLQLDAIIITCWIILNAICVACGLQKGVRIASDVRSYLSFLMLGWVFIV
+                     SGASFIMNYFTDSVGMLLMYLPRMLFYTDPIAKGGFPQGWTVFYWAWWVIYAIQMSIF
+                     LARISRGRTVRELCFGMVLGLTASTWILWTVLGSNTLLLIDKNIINIPNLIEQYGVAR
+                     AIIETWAALPLSTATMWGFFILCFIATVTLVNACSYTLAMSTCREVRDGEEPPLLVRI
+                     GWSILVGIIGIVLLALGGLKPIQTAIIAGGCPLFFVNIMVTLSFIKDAKQNWKD"
+     gene            42403..43173
+                     /gene="fixA"
+                     /locus_tag="b0041"
+                     /gene_synonym="ECK0042; yaaQ"
+                     /db_xref="ASAP:ABE-0000145"
+                     /db_xref="ECOCYC:EG11562"
+                     /db_xref="GeneID:947316"
+     CDS             42403..43173
+                     /gene="fixA"
+                     /locus_tag="b0041"
+                     /gene_synonym="ECK0042; yaaQ"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="putative electron transfer flavoprotein FixA"
+                     /protein_id="NP_414583.2"
+                     /db_xref="UniProtKB/Swiss-Prot:P60566"
+                     /db_xref="ASAP:ABE-0000145"
+                     /db_xref="ECOCYC:EG11562"
+                     /db_xref="GeneID:947316"
+                     /translation="MKIITCYKCVPDEQDIAVNNADGSLDFSKADAKISQYDLNAIEA
+                     ACQLKQQAAEAQVTALSVGGKALTNAKGRKDVLSRGPDELIVVIDDQFEQALPQQTAS
+                     ALAAAAQKAGFDLILCGDGSSDLYAQQVGLLVGEILNIPAVNGVSKIISLTADTLTVE
+                     RELEDETETLSIPLPAVVAVSTDINSPQIPSMKAILGAAKKPVQVWSAADIGFNAEAA
+                     WSEQQVAAPKQRERQRIVIEGDGEEQIAAFAENLRKVI"
+     gene            43188..44129
+                     /gene="fixB"
+                     /locus_tag="b0042"
+                     /gene_synonym="ECK0043; yaaR"
+                     /db_xref="ASAP:ABE-0000147"
+                     /db_xref="ECOCYC:EG11563"
+                     /db_xref="GeneID:948939"
+     CDS             43188..44129
+                     /gene="fixB"
+                     /locus_tag="b0042"
+                     /gene_synonym="ECK0043; yaaR"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="putative electron transfer flavoprotein FixB"
+                     /protein_id="NP_414584.1"
+                     /db_xref="UniProtKB/Swiss-Prot:P31574"
+                     /db_xref="ASAP:ABE-0000147"
+                     /db_xref="ECOCYC:EG11563"
+                     /db_xref="GeneID:948939"
+                     /translation="MNTFSQVWVFSDTPSRLPELMNGAQALANQINTFVLNDADGAQA
+                     IQLGANHVWKLNGKPDDRMIEDYAGVMADTIRQHGADGLVLLPNTRRGKLLAAKLGYR
+                     LKAAVSNDASTVSVQDGKATVKHMVYGGLAIGEERIATPYAVLTISSGTFDAAQPDAS
+                     RTGETHTVEWQAPAVAITRTATQARQSNSVDLDKARLVVSVGRGIGSKENIALAEQLC
+                     KAIGAELACSRPVAENEKWMEHERYVGISNLMLKPELYLAVGISGQIQHMVGANASQT
+                     IFAINKDKNAPIFQYADYGIVGDAVKILPALTAALAR"
+     gene            44180..45466
+                     /gene="fixC"
+                     /locus_tag="b0043"
+                     /gene_synonym="ECK0044; yaaS"
+                     /db_xref="ASAP:ABE-0000149"
+                     /db_xref="ECOCYC:EG11564"
+                     /db_xref="GeneID:948958"
+     CDS             44180..45466
+                     /gene="fixC"
+                     /locus_tag="b0043"
+                     /gene_synonym="ECK0044; yaaS"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="putative oxidoreductase FixC"
+                     /protein_id="NP_414585.1"
+                     /db_xref="UniProtKB/Swiss-Prot:P68644"
+                     /db_xref="ASAP:ABE-0000149"
+                     /db_xref="ECOCYC:EG11564"
+                     /db_xref="GeneID:948958"
+                     /translation="MSEDIFDAIIVGAGLAGSVAALVLAREGAQVLVIERGNSAGAKN
+                     VTGGRLYAHSLEHIIPGFADSAPVERLITHEKLAFMTEKSAMTMDYCNGDETSPSQRS
+                     YSVLRSKFDAWLMEQAEEAGAQLITGIRVDNLVQRDGKVVGVEADGDVIEAKTVILAD
+                     GVNSILAEKLGMAKRVKPTDVAVGVKELIELPKSVIEDRFQLQGNQGAACLFAGSPTD
+                     GLMGGGFLYTNENTLSLGLVCGLHHLHDAKKSVPQMLEDFKQHPAVAPLIAGGKLVEY
+                     SAHVVPEAGINMLPELVGDGVLIAGDAAGMCMNLGFTIRGMDLAIAAGEAAAKTVLSA
+                     MKSDDFSKQKLAEYRQHLESGPLRDMRMYQKLPAFLDNPRMFSGYPELAVGVARDLFT
+                     IDGSAPELMRKKILRHGKKVGFINLIKDGMKGVTVL"
+     gene            45463..45750
+                     /gene="fixX"
+                     /locus_tag="b0044"
+                     /gene_synonym="ECK0045; yaaT"
+                     /db_xref="ASAP:ABE-0000151"
+                     /db_xref="ECOCYC:EG11565"
+                     /db_xref="GeneID:948590"
+     CDS             45463..45750
+                     /gene="fixX"
+                     /locus_tag="b0044"
+                     /gene_synonym="ECK0045; yaaT"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="putative ferredoxin FixX"
+                     /protein_id="NP_414586.1"
+                     /db_xref="UniProtKB/Swiss-Prot:P68646"
+                     /db_xref="ASAP:ABE-0000151"
+                     /db_xref="ECOCYC:EG11565"
+                     /db_xref="GeneID:948590"
+                     /translation="MTSPVNVDVKLGVNKFNVDEEHPHIVVKADADKQALELLVKACP
+                     AGLYKKQDDGSVRFDYAGCLECGTCRILGLGSALEQWEYPRGTFGVEFRYG"
+     gene            45807..47138
+                     /gene="yaaU"
+                     /locus_tag="b0045"
+                     /gene_synonym="ECK0046; yabE"
+                     /db_xref="ASAP:ABE-0000156"
+                     /db_xref="ECOCYC:EG11566"
+                     /db_xref="GeneID:944766"
+     CDS             45807..47138
+                     /gene="yaaU"
+                     /locus_tag="b0045"
+                     /gene_synonym="ECK0046; yabE"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="putative transporter YaaU"
+                     /protein_id="NP_414587.1"
+                     /db_xref="UniProtKB/Swiss-Prot:P31679"
+                     /db_xref="ASAP:ABE-0000156"
+                     /db_xref="ECOCYC:EG11566"
+                     /db_xref="GeneID:944766"
+                     /translation="MQPSRNFDDLKFSSIHRRILLWGSGGPFLDGYVLVMIGVALEQL
+                     TPALKLDADWIGLLGAGTLAGLFVGTSLFGYISDKVGRRKMFLIDIIAIGVISVATMF
+                     VSSPVELLVMRVLIGIVIGADYPIATSMITEFSSTRQRAFSISFIAAMWYVGATCADL
+                     VGYWLYDVEGGWRWMLGSAAIPCLLILIGRFELPESPRWLLRKGRVKECEEMMIKLFG
+                     EPVAFDEEQPQQTRFRDLFNRRHFPFVLFVAAIWTCQVIPMFAIYTFGPQIVGLLGLG
+                     VGKNAALGNVVISLFFMLGCIPPMLWLNTAGRRPLLIGSFAMMTLALAVLGLIPDMGI
+                     WLVVMAFAVYAFFSGGPGNLQWLYPNELFPTDIRASAVGVIMSLSRIGTIVSTWALPI
+                     FINNYGISNTMLMGAGISLFGLLISVAFAPETRGMSLAQTSNMTIRGQRMG"
+     gene            47246..47776
+                     /gene="kefF"
+                     /locus_tag="b0046"
+                     /gene_synonym="ECK0047; yabF"
+                     /db_xref="ASAP:ABE-0000159"
+                     /db_xref="ECOCYC:EG11568"
+                     /db_xref="GeneID:944767"
+     CDS             47246..47776
+                     /gene="kefF"
+                     /locus_tag="b0046"
+                     /gene_synonym="ECK0047; yabF"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="regulator of KefC-mediated potassium transport
+                     and quinone oxidoreductase"
+                     /protein_id="NP_414588.1"
+                     /db_xref="UniProtKB/Swiss-Prot:P0A754"
+                     /db_xref="ASAP:ABE-0000159"
+                     /db_xref="ECOCYC:EG11568"
+                     /db_xref="GeneID:944767"
+                     /translation="MILIIYAHPYPHHSHANKRMLEQARTLEGVEIRSLYQLYPDFNI
+                     DIAAEQEALSRADLIVWQHPMQWYSIPPLLKLWIDKVFSHGWAYGHGGTALHGKHLLW
+                     AVTTGGGESHFEIGAHPGFDVLSQPLQATAIYCGLNWLPPFAMHCTFICDDETLEGQA
+                     RHYKQRLLEWQEAHHG"
+     gene            47769..49631
+                     /gene="kefC"
+                     /locus_tag="b0047"
+                     /gene_synonym="ECK0048; trkC"
+                     /db_xref="ASAP:ABE-0000161"
+                     /db_xref="ECOCYC:EG10521"
+                     /db_xref="GeneID:944773"
+     CDS             47769..49631
+                     /gene="kefC"
+                     /locus_tag="b0047"
+                     /gene_synonym="ECK0048; trkC"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="K(+) : H(+) antiporter KefC"
+                     /protein_id="NP_414589.1"
+                     /db_xref="UniProtKB/Swiss-Prot:P03819"
+                     /db_xref="ASAP:ABE-0000161"
+                     /db_xref="ECOCYC:EG10521"
+                     /db_xref="GeneID:944773"
+                     /translation="MDSHTLIQALIYLGSAALIVPIAVRLGLGSVLGYLIAGCIIGPW
+                     GLRLVTDAESILHFAEIGVVLMLFIIGLELDPQRLWKLRAAVFGCGALQMVICGGLLG
+                     LFCMLLGLRWQVAELIGMTLALSSTAIAMQAMNERNLMVTQMGRSAFAVLLFQDIAAI
+                     PLVAMIPLLATSSASTTMGAFALSALKVAGALVLVVLLGRYVTRPALRFVARSGLREV
+                     FSAVALFLVFGFGLLLEEVGLSMAMGAFLAGVLLASSEYRHALESDIEPFKGLLLGLF
+                     FIGVGMSIDFGTLLENPLRIVILLLGFLIIKIAMLWLIARPLQVPNKQRRWFAVLLGQ
+                     GSEFAFVVFGAAQMANVLEPEWAKSLTLAVALSMAATPILLVILNRLEQSSTEEAREA
+                     DEIDEEQPRVIIAGFGRFGQITGRLLLSSGVKMVVLDHDPDHIETLRKFGMKVFYGDA
+                     TRMDLLESAGAAKAEVLINAIDDPQTNLQLTEMVKEHFPHLQIIARARDVDHYIRLRQ
+                     AGVEKPERETFEGALKTGRLALESLGLGPYEARERADVFRRFNIQMVEEMAMVENDTK
+                     ARAAVYKRTSAMLSEIITEDREHLSLIQRHGWQGTEEGKHTGNMADEPETKPSS"
+     gene            49823..50302
+                     /gene="folA"
+                     /locus_tag="b0048"
+                     /gene_synonym="ECK0049; tmr; tmrA"
+                     /db_xref="ASAP:ABE-0000164"
+                     /db_xref="ECOCYC:EG10326"
+                     /db_xref="GeneID:944790"
+     CDS             49823..50302
+                     /gene="folA"
+                     /locus_tag="b0048"
+                     /gene_synonym="ECK0049; tmr; tmrA"
+                     /EC_number="1.5.1.3"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="dihydrofolate reductase"
+                     /protein_id="NP_414590.1"
+                     /db_xref="UniProtKB/Swiss-Prot:P0ABQ4"
+                     /db_xref="ASAP:ABE-0000164"
+                     /db_xref="ECOCYC:EG10326"
+                     /db_xref="GeneID:944790"
+                     /translation="MISLIAALAVDRVIGMENAMPWNLPADLAWFKRNTLNKPVIMGR
+                     HTWESIGRPLPGRKNIILSSQPGTDDRVTWVKSVDEAIAACGDVPEIMVIGGGRVYEQ
+                     FLPKAQKLYLTHIDAEVEGDTHFPDYEPDDWESVFSEFHDADAQNSHSYCFEILERR"
+     gene            complement(50380..51222)
+                     /gene="apaH"
+                     /locus_tag="b0049"
+                     /gene_synonym="cfcB; ECK0050"
+                     /db_xref="ASAP:ABE-0000167"
+                     /db_xref="ECOCYC:EG10048"
+                     /db_xref="GeneID:944770"
+     CDS             complement(50380..51222)
+                     /gene="apaH"
+                     /locus_tag="b0049"
+                     /gene_synonym="cfcB; ECK0050"
+                     /EC_number="3.6.1.41"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="diadenosine tetraphosphatase"
+                     /protein_id="NP_414591.1"
+                     /db_xref="UniProtKB/Swiss-Prot:P05637"
+                     /db_xref="ASAP:ABE-0000167"
+                     /db_xref="ECOCYC:EG10048"
+                     /db_xref="GeneID:944770"
+                     /translation="MATYLIGDVHGCYDELIALLHKVEFTPGKDTLWLTGDLVARGPG
+                     SLDVLRYVKSLGDSVRLVLGNHDLHLLAVFAGISRNKPKDRLTPLLEAPDADELLNWL
+                     RRQPLLQIDEEKKLVMAHAGITPQWDLQTAKECARDVEAVLSSDSYPFFLDAMYGDMP
+                     NNWSPELRGLGRLRFITNAFTRMRFCFPNGQLDMYSKESPEEAPAPLKPWFAIPGPVA
+                     EEYSIAFGHWASLEGKGTPEGIYALDTGCCWGGTLTCLRWEDKQYFVQPSNRHKDLGE
+                     AAAS"
+     gene            complement(51229..51606)
+                     /gene="apaG"
+                     /locus_tag="b0050"
+                     /gene_synonym="ECK0051"
+                     /db_xref="ASAP:ABE-0000169"
+                     /db_xref="ECOCYC:EG10047"
+                     /db_xref="GeneID:944772"
+     CDS             complement(51229..51606)
+                     /gene="apaG"
+                     /locus_tag="b0050"
+                     /gene_synonym="ECK0051"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="DUF525 domain-containing protein ApaG"
+                     /protein_id="NP_414592.1"
+                     /db_xref="UniProtKB/Swiss-Prot:P62672"
+                     /db_xref="ASAP:ABE-0000169"
+                     /db_xref="ECOCYC:EG10047"
+                     /db_xref="GeneID:944772"
+                     /translation="MINSPRVCIQVQSVYIEAQSSPDNERYVFAYTVTIRNLGRAPVQ
+                     LLGRYWLITNGNGRETEVQGEGVVGVQPLIAPGEEYQYTSGAIIETPLGTMQGHYEMI
+                     DENGVPFSIDIPVFRLAVPTLIH"
+     gene            complement(51609..52430)
+                     /gene="rsmA"
+                     /locus_tag="b0051"
+                     /gene_synonym="ECK0052; ksgA"
+                     /db_xref="ASAP:ABE-0000175"
+                     /db_xref="ECOCYC:EG10523"
+                     /db_xref="GeneID:944939"
+     CDS             complement(51609..52430)
+                     /gene="rsmA"
+                     /locus_tag="b0051"
+                     /gene_synonym="ECK0052; ksgA"
+                     /EC_number="2.1.1.182"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="16S rRNA m(6)2A1518,m(6)2A1519
+                     dimethyltransferase"
+                     /protein_id="NP_414593.1"
+                     /db_xref="UniProtKB/Swiss-Prot:P06992"
+                     /db_xref="ASAP:ABE-0000175"
+                     /db_xref="ECOCYC:EG10523"
+                     /db_xref="GeneID:944939"
+                     /translation="MNNRVHQGHLARKRFGQNFLNDQFVIDSIVSAINPQKGQAMVEI
+                     GPGLAALTEPVGERLDQLTVIELDRDLAARLQTHPFLGPKLTIYQQDAMTFNFGELAE
+                     KMGQPLRVFGNLPYNISTPLMFHLFSYTDAIADMHFMLQKEVVNRLVAGPNSKAYGRL
+                     SVMAQYYCNVIPVLEVPPSAFTPPPKVDSAVVRLVPHATMPHPVKDVRVLSRITTEAF
+                     NQRRKTIRNSLGNLFSVEVLTGMGIDPAMRAENISVAQYCQMANYLAENAPLQES"
+     gene            complement(52427..53416)
+                     /gene="pdxA"
+                     /locus_tag="b0052"
+                     /gene_synonym="ECK0053"
+                     /db_xref="ASAP:ABE-0000178"
+                     /db_xref="ECOCYC:EG10691"
+                     /db_xref="GeneID:944919"
+     CDS             complement(52427..53416)
+                     /gene="pdxA"
+                     /locus_tag="b0052"
+                     /gene_synonym="ECK0053"
+                     /EC_number="1.1.1.262"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="4-hydroxythreonine-4-phosphate dehydrogenase"
+                     /protein_id="NP_414594.1"
+                     /db_xref="UniProtKB/Swiss-Prot:P19624"
+                     /db_xref="ASAP:ABE-0000178"
+                     /db_xref="ECOCYC:EG10691"
+                     /db_xref="GeneID:944919"
+                     /translation="MVKTQRVVITPGEPAGIGPDLVVQLAQREWPVELVVCADATLLT
+                     NRAAMLGLPLTLRPYSPNSPAQPQTAGTLTLLPVALRAPVTAGQLAVENGHYVVETLA
+                     RACDGCLNGEFAALITGPVHKGVINDAGIPFTGHTEFFEERSQAKKVVMMLATEELRV
+                     ALATTHLPLRDIADAITPALLHEVIAILHHDLRTKFGIAEPRILVCGLNPHAGEGGHM
+                     GTEEIDTIIPVLNELRAQGMKLNGPLPADTLFQPKYLDNADAVLAMYHDQGLPVLKYQ
+                     GFGRGVNITLGLPFIRTSVDHGTALELAGRGKADVGSFITALNLAIKMIVNTQ"
+     gene            complement(53416..54702)
+                     /gene="surA"
+                     /locus_tag="b0053"
+                     /gene_synonym="ECK0054"
+                     /db_xref="ASAP:ABE-0000180"
+                     /db_xref="ECOCYC:EG10985"
+                     /db_xref="GeneID:944812"
+     CDS             complement(53416..54702)
+                     /gene="surA"
+                     /locus_tag="b0053"
+                     /gene_synonym="ECK0054"
+                     /EC_number="5.2.1.8"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="chaperone SurA"
+                     /protein_id="NP_414595.1"
+                     /db_xref="UniProtKB/Swiss-Prot:P0ABZ6"
+                     /db_xref="ASAP:ABE-0000180"
+                     /db_xref="ECOCYC:EG10985"
+                     /db_xref="GeneID:944812"
+                     /translation="MKNWKTLLLGIAMIANTSFAAPQVVDKVAAVVNNGVVLESDVDG
+                     LMQSVKLNAAQARQQLPDDATLRHQIMERLIMDQIILQMGQKMGVKISDEQLDQAIAN
+                     IAKQNNMTLDQMRSRLAYDGLNYNTYRNQIRKEMIISEVRNNEVRRRITILPQEVESL
+                     AQQVGNQNDASTELNLSHILIPLPENPTSDQVNEAESQARAIVDQARNGADFGKLAIA
+                     HSADQQALNGGQMGWGRIQELPGIFAQALSTAKKGDIVGPIRSGVGFHILKVNDLRGE
+                     SKNISVTEVHARHILLKPSPIMTDEQARVKLEQIAADIKSGKTTFAAAAKEFSQDPGS
+                     ANQGGDLGWATPDIFDPAFRDALTRLNKGQMSAPVHSSFGWHLIELLDTRNVDKTDAA
+                     QKDRAYRMLMNRKFSEEAASWMQEQRASAYVKILSN"
+     gene            complement(54755..57109)
+                     /gene="lptD"
+                     /locus_tag="b0054"
+                     /gene_synonym="ECK0055; imp; ostA; yabG"
+                     /db_xref="ASAP:ABE-0000183"
+                     /db_xref="ECOCYC:EG11569"
+                     /db_xref="GeneID:945011"
+     CDS             complement(54755..57109)
+                     /gene="lptD"
+                     /locus_tag="b0054"
+                     /gene_synonym="ECK0055; imp; ostA; yabG"
+                     /EC_number="7.5.2.5"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="lipopolysaccharide assembly protein LptD"
+                     /protein_id="NP_414596.1"
+                     /db_xref="UniProtKB/Swiss-Prot:P31554"
+                     /db_xref="ASAP:ABE-0000183"
+                     /db_xref="ECOCYC:EG11569"
+                     /db_xref="GeneID:945011"
+                     /translation="MKKRIPTLLATMIATALYSQQGLAADLASQCMLGVPSYDRPLVQ
+                     GDTNDLPVTINADHAKGDYPDDAVFTGSVDIMQGNSRLQADEVQLHQKEAPGQPEPVR
+                     TVDALGNVHYDDNQVILKGPKGWANLNTKDTNVWEGDYQMVGRQGRGKADLMKQRGEN
+                     RYTILDNGSFTSCLPGSDTWSVVGSEIIHDREEQVAEIWNARFKVGPVPIFYSPYLQL
+                     PVGDKRRSGFLIPNAKYTTTNYFEFYLPYYWNIAPNMDATITPHYMHRRGNIMWENEF
+                     RYLSQAGAGLMELDYLPSDKVYEDEHPNDDSSRRWLFYWNHSGVMDQVWRFNVDYTKV
+                     SDPSYFNDFDNKYGSSTDGYATQKFSVGYAVQNFNATVSTKQFQVFSEQNTSSYSAEP
+                     QLDVNYYQNDVGPFDTRIYGQAVHFVNTRDDMPEATRVHLEPTINLPLSNNWGSINTE
+                     AKLLATHYQQTNLDWYNSRNTTKLDESVNRVMPQFKVDGKMVFERDMEMLAPGYTQTL
+                     EPRAQYLYVPYRDQSDIYNYDSSLLQSDYSGLFRDRTYGGLDRIASANQVTTGVTSRI
+                     YDDAAVERFNISVGQIYYFTESRTGDDNITWENDDKTGSLVWAGDTYWRISERWGLRG
+                     GIQYDTRLDNVATSNSSIEYRRDEDRLVQLNYRYASPEYIQATLPKYYSTAEQYKNGI
+                     SQVGAVASWPIADRWSIVGAYYYDTNANKQADSMLGVQYSSCCYAIRVGYERKLNGWD
+                     NDKQHAVYDNAIGFNIELRGLSSNYGLGTQEMLRSNILPYQNTL"
+     gene            57364..58179
+                     /gene="djlA"
+                     /locus_tag="b0055"
+                     /gene_synonym="ECK0056; yabH"
+                     /db_xref="ASAP:ABE-0000187"
+                     /db_xref="ECOCYC:EG11570"
+                     /db_xref="GeneID:948992"
+     CDS             57364..58179
+                     /gene="djlA"
+                     /locus_tag="b0055"
+                     /gene_synonym="ECK0056; yabH"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="co-chaperone protein DjlA"
+                     /protein_id="NP_414597.1"
+                     /db_xref="UniProtKB/Swiss-Prot:P31680"
+                     /db_xref="ASAP:ABE-0000187"
+                     /db_xref="ECOCYC:EG11570"
+                     /db_xref="GeneID:948992"
+                     /translation="MQYWGKIIGVAVALLMGGGFWGVVLGLLIGHMFDKARSRKMAWF
+                     ANQRERQALFFATTFEVMGHLTKSKGRVTEADIHIASQLMDRMNLHGASRTAAQNAFR
+                     VGKSDNYPLREKMRQFRSVCFGRFDLIRMFLEIQIQAAFADGSLHPNERAVLYVIAEE
+                     LGISRAQFDQFLRMMQGGAQFGGGYQQQTGGGNWQQAQRGPTLEDACNVLGVKPTDDA
+                     TTIKRAYRKLMSEHHPDKLVAKGLPPEMMEMAKQKAQEIQQAYELIKQQKGFK"
+     gene            58474..59124
+                     /gene="yabP"
+                     /locus_tag="b0056"
+                     /gene_synonym="b4659; ECK0057"
+                     /db_xref="ASAP:ABE-0000192"
+                     /db_xref="ECOCYC:EG12610"
+                     /db_xref="GeneID:945039"
+     CDS             58474..59124
+                     /gene="yabP"
+                     /locus_tag="b0056"
+                     /gene_synonym="b4659; ECK0057"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="putative uncharacterized protein YabP"
+                     /protein_id="YP_009518734.1"
+                     /db_xref="UniProtKB/Swiss-Prot:P39220"
+                     /db_xref="ASAP:ABE-0000192"
+                     /db_xref="ECOCYC:EG12610"
+                     /db_xref="GeneID:945039"
+                     /translation="MKVSVPGMPVTLLNMSKNDIYKMVSGDKMDVKMNIFQRLWETLR
+                     HLFWSDKQTEAYKLLFNFVNNQTGNINASEYFTGAINENEREKFINSLELFNKLKTCA
+                     KNPDELVAKGNMRWVAQTFGDIELSVTFFIEKNKICTQTLQLHKGQGNLGVDLRKAYL
+                     PGVDMRDCYLGKKTMKGSNDILYERPGWNANLGVLPRTVLPRTVLTRTVLTWTVLP"
+     gene            59121..59279
+                     /gene="yabQ"
+                     /locus_tag="b0057"
+                     /gene_synonym="b4659; ECK0058"
+                     /db_xref="ASAP:ABE-0000194"
+                     /db_xref="ECOCYC:EG12611"
+                     /db_xref="GeneID:38094933"
+     CDS             59121..59279
+                     /gene="yabQ"
+                     /locus_tag="b0057"
+                     /gene_synonym="b4659; ECK0058"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="protein YabQ"
+                     /protein_id="YP_009518735.1"
+                     /db_xref="UniProtKB/Swiss-Prot:P39221"
+                     /db_xref="ASAP:ABE-0000194"
+                     /db_xref="ECOCYC:EG12611"
+                     /db_xref="GeneID:38094933"
+                     /translation="MNGATSLYDEVIIINKIPPKKIDTKGVATEEVATKKVLLNKLLT
+                     TQLLNEPE"
+     gene            complement(59687..60346)
+                     /gene="rluA"
+                     /locus_tag="b0058"
+                     /gene_synonym="ECK0059; yabO"
+                     /db_xref="ASAP:ABE-0000196"
+                     /db_xref="ECOCYC:EG12609"
+                     /db_xref="GeneID:946262"
+     CDS             complement(59687..60346)
+                     /gene="rluA"
+                     /locus_tag="b0058"
+                     /gene_synonym="ECK0059; yabO"
+                     /EC_number="5.4.99.28"
+                     /EC_number="5.4.99.29"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="23S rRNA pseudouridine(746) and tRNA
+                     pseudouridine(32) synthase"
+                     /protein_id="NP_414600.1"
+                     /db_xref="UniProtKB/Swiss-Prot:P0AA37"
+                     /db_xref="ASAP:ABE-0000196"
+                     /db_xref="ECOCYC:EG12609"
+                     /db_xref="GeneID:946262"
+                     /translation="MGMENYNPPQEPWLVILYQDDHIMVVNKPSGLLSVPGRLEEHKD
+                     SVMTRIQRDYPQAESVHRLDMATSGVIVVALTKAAERELKRQFREREPKKQYVARVWG
+                     HPSPAEGLVDLPLICDWPNRPKQKVCYETGKPAQTEYEVVEYAADNTARVVLKPITGR
+                     SHQLRVHMLALGHPILGDRFYASPEARAMAPRLLLHAEMLTITHPAYGNSMTFKAPAD
+                     F"
+     gene            complement(60358..63264)
+                     /gene="rapA"
+                     /locus_tag="b0059"
+                     /gene_synonym="ECK0060; hepA; yabA"
+                     /db_xref="ASAP:ABE-0000198"
+                     /db_xref="ECOCYC:EG11083"
+                     /db_xref="GeneID:948523"
+     CDS             complement(60358..63264)
+                     /gene="rapA"
+                     /locus_tag="b0059"
+                     /gene_synonym="ECK0060; hepA; yabA"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="RNA polymerase-binding ATPase and RNAP recycling
+                     factor"
+                     /protein_id="NP_414601.1"
+                     /db_xref="UniProtKB/Swiss-Prot:P60240"
+                     /db_xref="ASAP:ABE-0000198"
+                     /db_xref="ECOCYC:EG11083"
+                     /db_xref="GeneID:948523"
+                     /translation="MPFTLGQRWISDTESELGLGTVVAVDARTVTLLFPSTGENRLYA
+                     RSDSPVTRVMFNPGDTITSHDGWQMQVEEVKEENGLLTYIGTRLDTEESGVALREVFL
+                     DSKLVFSKPQDRLFAGQIDRMDRFALRYRARKYSSEQFRMPYSGLRGQRTSLIPHQLN
+                     IAHDVGRRHAPRVLLADEVGLGKTIEAGMILHQQLLSGAAERVLIIVPETLQHQWLVE
+                     MLRRFNLRFALFDDERYAEAQHDAYNPFDTEQLVICSLDFARRSKQRLEHLCEAEWDL
+                     LVVDEAHHLVWSEDAPSREYQAIEQLAEHVPGVLLLTATPEQLGMESHFARLRLLDPN
+                     RFHDFAQFVEEQKNYRPVADAVAMLLAGNKLSNDELNMLGEMIGEQDIEPLLQAANSD
+                     SEDAQSARQELVSMLMDRHGTSRVLFRNTRNGVKGFPKRELHTIKLPLPTQYQTAIKV
+                     SGIMGARKSAEDRARDMLYPERIYQEFEGDNATWWNFDPRVEWLMGYLTSHRSQKVLV
+                     ICAKAATALQLEQVLREREGIRAAVFHEGMSIIERDRAAAWFAEEDTGAQVLLCSEIG
+                     SEGRNFQFASHMVMFDLPFNPDLLEQRIGRLDRIGQAHDIQIHVPYLEKTAQSVLVRW
+                     YHEGLDAFEHTCPTGRTIYDSVYNDLINYLASPDQTEGFDDLIKNCREQHEALKAQLE
+                     QGRDRLLEIHSNGGEKAQALAESIEEQDDDTNLIAFAMNLFDIIGINQDDRGDNMIVL
+                     TPSDHMLVPDFPGLSEDGITITFDREVALAREDAQFITWEHPLIRNGLDLILSGDTGS
+                     STISLLKNKALPVGTLLVELIYVVEAQAPKQLQLNRFLPPTPVRMLLDKNGNNLAAQV
+                     EFETFNRQLNAVNRHTGSKLVNAVQQDVHAILQLGEAQIEKSARALIDAARNEADEKL
+                     SAELSRLEALRAVNPNIRDDELTAIESNRQQVMESLDQAGWRLDALRLIVVTHQ"
+     gene            complement(63429..65780)
+                     /gene="polB"
+                     /locus_tag="b0060"
+                     /gene_synonym="dinA; ECK0061"
+                     /db_xref="ASAP:ABE-0000202"
+                     /db_xref="ECOCYC:EG10747"
+                     /db_xref="GeneID:944779"
+     CDS             complement(63429..65780)
+                     /gene="polB"
+                     /locus_tag="b0060"
+                     /gene_synonym="dinA; ECK0061"
+                     /EC_number="2.7.7.7"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="DNA polymerase II"
+                     /protein_id="NP_414602.1"
+                     /db_xref="UniProtKB/Swiss-Prot:P21189"
+                     /db_xref="ASAP:ABE-0000202"
+                     /db_xref="ECOCYC:EG10747"
+                     /db_xref="GeneID:944779"
+                     /translation="MAQAGFILTRHWRDTPQGTEVSFWLATDNGPLQVTLAPQESVAF
+                     IPADQVPRAQHILQGEQGFRLTPLALKDFHRQPVYGLYCRAHRQLMNYEKRLREGGVT
+                     VYEADVRPPERYLMERFITSPVWVEGDMHNGTIVNARLKPHPDYRPPLKWVSIDIETT
+                     RHGELYCIGLEGCGQRIVYMLGPENGDASSLDFELEYVASRPQLLEKLNAWFANYDPD
+                     VIIGWNVVQFDLRMLQKHAERYRLPLRLGRDNSELEWREHGFKNGVFFAQAKGRLIID
+                     GIEALKSAFWNFSSFSLETVA

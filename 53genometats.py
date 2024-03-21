@@ -15,27 +15,31 @@ mean = 0
 sd = 0
 median = 0
 
+searchterm = 'CDS'
+print(searchterm)
+
 path = '../MCB185/data/GCF_000005845.2_ASM584v2_genomic.gff.gz'
 with gzip.open(path, 'rt') as fp:
 	for line in fp:
 		if line[0] == '#': continue
 		words = line.split()
-		if words[2] != 'CDS': continue
+		if words[2] != searchterm: continue
 		beg = int(words[3])
 		end = int(words[4]) 
 		cdlength = (end - beg + 1)
 		lengths.append(cdlength)
+		
+		
 if True:
-	count = len(lengths)
-	print('count: ', count) 
+	count = len(lengths) 
+	print('count:', count) 
 	mini = lengths[0]
 	maxi = lengths[0]
 	for length in lengths:
 		if length < mini: min = length
 		if length > max: max = length
-	
-		print(length)
-	print('min: ', min, 'max: ', max)
+	print('min: ', min)
+	print('max: ', max)
 
 if True:
 	mean = 0
@@ -43,7 +47,7 @@ if True:
 	for length in lengths:
 		total = total + length 
 		mean = total / count
-	print('count: ', count, 'mean: ', mean, 'total: ', total)
+	print('mean: ', mean)
 
 if True:
 	sd = 0
@@ -56,10 +60,18 @@ if True:
 	print('standard deviation: ', sd)
 	
 if True:
-	print(count)
-	pos = count / 2 
-	print(pos)
-	median = lengths[pos]
+	pos = len(lengths)
+	numb = 0.5 * pos
+	if numb % 2 == 1.0:
+		numb = int(numb)
+		median = lengths[numb]
+	else:
+		top = int(numb + 0.5) 
+		bottom = int(numb - .5)
+		median = (lengths[top] + lengths[bottom]) / 2
+	print('median:', median)
+
+	
 	
 	
 

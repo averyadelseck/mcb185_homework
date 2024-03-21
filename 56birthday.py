@@ -2,9 +2,9 @@ import random
 import sys
 
 
-days = int(sys.argv[1])
-people = int(sys.argv[2])
-trials = int(sys.argv[3])
+days = 2 #int(sys.argv[1])
+people = 2 #int(sys.argv[2])
+trials = 2 #int(sys.argv[3])
 
 matches = 0
 

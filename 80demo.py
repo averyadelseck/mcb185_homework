@@ -1,10 +1,11 @@
 import sys
 import math
+import json
 '''
 print(sys.argv)
 print(sys.argv[0])
 print(sys.argv[0][3])
-'''
+
 d = [
 	'hello',
 	(3.14, 'pi'),
@@ -56,3 +57,12 @@ for i in range(len(seq) -k +1):
 	if kmer not in kloc: kloc[kmer] = []
 	kloc[kmer].append(i)
 print(kloc)
+'''
+
+
+truc = {
+    'animals': {'dog': 'woof', 'cat': 'meow', 'pig': 'oink'},
+    'numbers': [1.09, 2.72, 3.14],
+    'is_complete': False,
+}
+print(json.dumps(truc, indent=4))

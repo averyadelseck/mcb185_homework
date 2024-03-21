@@ -6,48 +6,55 @@ import gzip
 
 # colorfile = sys.argv[1]
 
-R = sys.argv[1]
-G = sys.argv[2]
-B = sys.argv[3]
+R = 0 #int(sys.argv[1])
+G = 130 #int(sys.argv[2])
+B = 185 #int(sys.argv[3])
 
-
-def dtc(P, R):
-	d = 0
-	for p, q in zip(P, Q):
-		d += abs(p - q)
-	return d
+def dtc(P, Q):
+    d = 0
+    for p, q in zip(P, Q):
+        d += abs(p - q)
+    return d
 
 
 path = '../MCB185/data/colors_extended.tsv'
-reds = []
-greens = []
-blues = [] 
 
 with open(path) as fp:
-	reds = []
-	greens = []
-	blues = [] 
+	totaldiff = 1000000000000000 
+	
+	for line in fp:
+		print(line)
+		words = line.split()
+		numbers = words[2]
+		code = numbers.split(',')
+		r = int(code[0])
+		g = int(code[1])
+		b = int(code[2])
+		
+		diffr = dtc([R], [r])
+		diffg = dtc([G], [g])
+		diffb = dtc([B], [b])	
+		
+		difftot = diffr + diffg + diffb
+
+		if difftot < totaldiff:
+			totaldiff = difftot
+			color = words[0]	 	
+print('the color is:', color)
+
+'''
+# for absolute colors, I did this first, then the other one.
 	for line in fp:
 	 	words = line.split()
 	 	numbers = words[2]
 	 	code = numbers.split(',')
+	 	color = words[0]
 	 	r = code[0]
 	 	g = code[1]
 	 	b = code[2]
 	 	if r == R and g == G and b == B:
-	 		print(line)
-	 	else: continue
-	 	difr = R - r
-	 	difg = G -g
-	 	difb = B - b
-	reds.append(difr)
-	greens.append(difg)
-	blues.append(difb)
-	
+	 		print(color)
 	 
-'''	for words[2] in fp:
-	 		colors = line.split(',')
-	 		print(colors)
 
 		
 

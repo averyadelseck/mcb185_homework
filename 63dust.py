@@ -13,22 +13,8 @@ for i in seq():
 		if shanon's entropy above x: append the dna
 		if not, do not append
 '''
-seq = 'ACGTCGATTCGAT'
-
-# pulled from my dogma.py 
-	
-def entropy(seq):
-	a = seq.count('A')
-	c = seq.count('C')
-	g = seq.count('G')
-	t = seq.count('T')
-	bc = a + c + t + g
-	if 'A' in seq and 'C' in seq and 'C' in seq and 'T' in seq and bc > 0:
-		return ((a/(bc) * math.log2(a/(bc))) + (c/(bc) * math.log2(c/(bc))) + (g/(bc) * math.log2(g/(bc))) + (t/(bc) * math.log2(t/(bc))))
-	else: return 0 
-
-
 seq ='CGACAGGCATGCCCCCGATAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAATATATATATATATATATATATTATATTATATATATATTATATATCGATCGATCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCGGTCAGGGGGGCGACGGATATATTTAAAAAAACGGTACGCAATGCTACGGGGGGGGGGGG'
+
 w = 20
 e = -1.4
 newdna = []
@@ -39,21 +25,41 @@ def dust(seq):
 		s = seq[i:i+w]
 		if i == 0:
 			ent = dogma.entropy(s) 
-			print(ent)
 			if ent < e: 
 				newdna.append(s)
 			else: 
 				discard.append(s)
 		else:
 			s = seq[i:i+w]
-			ent = dogma.entropy(s)
-			print(ent) 
+			ent = dogma.entropy(s) 
+			print(ent)
 			if ent < e:
 				newdna.append(seq[i])
 			else: 
-				discard.append(seq[i])
-		
-	print(newdna)
-	print(discard)	
+				discard.append(seq[i]) 
+	print(discard)
 	
-print(dust(seq)) 
+w = 20
+e = -1.4
+
+for defline, seq in mcb185.read_fasta(sys.argv[1]):
+	seq = seq[:40]
+	if True:
+		newdna = []
+		discard = []
+		for i in range(len(seq) -w +1):
+			s = seq[i:i+w]
+			if i == 0:
+				ent = dogma.entropy(s) 
+				if ent < e: 
+					newdna.append(s)
+				else: 
+					discard.append(s)
+			else:
+				s = seq[i:i+w]
+				ent = dogma.entropy(s) 
+				if ent < e:
+					newdna.append(seq[i])
+				else: 
+						discard.append(seq[i]) 
+		print(defline[:30], newdna)
